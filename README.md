@@ -6,27 +6,32 @@ Tôi là một lập trình viên Full-stack với niềm đam mê xây dựng c
 
 ## 🚀 CÁC DỰ ÁN NỔI BẬT
 
-### 1. 🎬 Cinema Booking System (Hệ thống đặt vé xem phim)
+### 1. 📋 TaskFlow (Hệ thống quản lý công việc)
+Dự án xây dựng hệ thống quản lý công việc thông minh, hỗ trợ làm việc nhóm và cập nhật trạng thái thời gian thực.
+
+*   🚀 **Trải nghiệm Web (Live Demo):** [**https://taskflow-frontend-virid.vercel.app/**](https://taskflow-frontend-virid.vercel.app/)
+*   **Frontend:** 🖥️ [Xem Source Code (Next.js)](https://github.com/hoangthang183204/taskflow-frontend)
+*   **Backend (API):** ⚙️ [Xem Source Code (Node.js/Sails.js)](https://github.com/hoangthang183204/taskflow-backend)
+
+**🌟 Điểm nổi bật về mặt kỹ thuật (Technical Highlights):**
+*   **Backend Architecture:** Phát triển RESTful API với **Node.js/Sails.js**, xác thực qua **JWT** và phân quyền người dùng chặt chẽ.
+*   **Database Optimization:** Tối ưu hóa **MongoDB** bằng cách sử dụng Index, Pagination và xử lý triệt để vấn đề **N+1 Query**.
+*   **Performance & Realtime:** Triển khai **Redis Cache**, **Rate Limiting** và tích hợp **WebSocket** để cải thiện hiệu năng và khả năng cập nhật realtime.
+*   **Frontend & UX:** Phát triển Frontend với **Next.js**, áp dụng kỹ thuật **Optimistic UI** khi thao tác với task (giúp giao diện phản hồi tức thì).
+*   **DevOps & Testing:** Thực hiện **API Testing**, **Docker hóa** ứng dụng và xây dựng quy trình **CI/CD** tự động.
+*   **Quản lý dự án:** Làm việc nhóm và quản lý mã nguồn hiệu quả bằng **Git/GitHub**.
+
+---
+
+### 2. 🎬 Cinema Booking System (Hệ thống đặt vé xem phim)
 Dự án mô phỏng hệ thống đặt vé xem phim thực tế với đầy đủ các luồng nghiệp vụ: Quản lý phim, phòng chiếu, lịch chiếu, chọn ghế, thanh toán trực tuyến và thống kê doanh thu.
 
-*   **Frontend:** 🖥️ [Xem Source Code VueJS](https://github.com/hoangthang183204/CinemaBooking-Vue)
-*   **Backend (API):** ⚙️ [Xem Source Code .NET C#](https://github.com/hoangthang183204/CinemaBooking-API)
+*   **Frontend:** 🖥️ [Xem Source Code (VueJS)](https://github.com/hoangthang183204/CinemaBooking-Vue)
+*   **Backend (API):** ⚙️ [Xem Source Code (.NET C#)](https://github.com/hoangthang183204/CinemaBooking-API)
 *   **Công nghệ sử dụng:** 
     *   *Backend:* C# (.NET), Entity Framework Core, SQL Server, JWT Authentication.
     *   *Frontend:* Vue.js 3, JavaScript, HTML/CSS.
     *   *Tích hợp:* Cổng thanh toán VNPay, MoMo (Sandbox).
-
----
-
-### 2. 📋 TaskFlow (Hệ thống quản lý công việc)
-Ứng dụng quản lý công việc (To-do list) thông minh, hỗ trợ làm việc nhóm, phân chia task và theo dõi tiến độ công việc.
-
-*   🚀 **Trải nghiệm Web (Live Demo):** [**https://taskflow-frontend-virid.vercel.app/**](https://taskflow-frontend-virid.vercel.app/)
-*   **Frontend:** 🖥️ [Xem Source Code Frontend](https://github.com/hoangthang183204/taskflow-frontend)
-*   **Backend (API):** ⚙️ [Xem Source Code Backend](https://github.com/hoangthang183204/taskflow-backend)
-*   **Công nghệ sử dụng:**
-    *   *Backend:* RESTful API, Database.
-    *   *Frontend:* Vue.js, JavaScript, Axios, Vercel (Deploy).
 
 ---
 
@@ -50,14 +55,14 @@ Dự án mô phỏng hệ thống đặt vé xem phim thực tế với đầy �
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Database & Tools:**
+**Database, Caching & DevOps:**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🤝 Kỹ năng mềm
 *   Làm việc nhóm & phối hợp hiệu quả.
