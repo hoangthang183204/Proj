@@ -66,12 +66,11 @@ Dự án mô phỏng hệ thống đặt vé xem phim thực tế với đầy �
 
 ### 🤝 Kỹ năng mềm
 *   Làm việc nhóm & phối hợp hiệu quả.
-*   Đọc hiểu tài liệu kỹ thuật (Tiếng Anh).
 *   Tư duy giải quyết vấn đề logic.
 *   Chủ động học hỏi công nghệ mới.
 
 ---
 
 ## 📫 Liên hệ với tôi
-*   **Email:** [Điền email của bạn vào đây]
-*   **Số điện thoại:** [Điền SĐT của bạn vào đây]
+*   **Email:** thanghoang182004@gmail.com
+*   **Số điện thoại:** 0344352682
