@@ -13,37 +13,58 @@ Dự án mô phỏng hệ thống đặt vé xem phim thực tế với đầy �
 *   **Backend (API):** ⚙️ [Xem Source Code .NET C#](https://github.com/hoangthang183204/CinemaBooking-API)
 *   **Công nghệ sử dụng:** 
     *   *Backend:* C# (.NET), Entity Framework Core, SQL Server, JWT Authentication.
-    *   *Frontend:* Vue.js 3, Pinia, TailwindCSS.
+    *   *Frontend:* Vue.js 3, JavaScript, HTML/CSS.
     *   *Tích hợp:* Cổng thanh toán VNPay, MoMo (Sandbox).
 
 ---
 
 ### 2. 📋 TaskFlow (Hệ thống quản lý công việc)
-Ứng dụng quản lý công việc (To-do list) thông minh, hỗ trợ làm việc nhóm, phân chia task và theo dõi tiến độ công việc theo mô hình Kanban.
+Ứng dụng quản lý công việc (To-do list) thông minh, hỗ trợ làm việc nhóm, phân chia task và theo dõi tiến độ công việc.
 
 *   **Frontend:** 🖥️ [Xem Source Code Frontend](https://github.com/hoangthang183204/taskflow-frontend)
 *   **Backend (API):** ⚙️ [Xem Source Code Backend](https://github.com/hoangthang183204/taskflow-backend)
 *   **Công nghệ sử dụng:**
-    *   *Backend:* C# (.NET), RESTful API, SQL Server.
-    *   *Frontend:* Vue.js 3, Vue Router, Axios.
+    *   *Backend:* RESTful API, Database.
+    *   *Frontend:* Vue.js, JavaScript, Axios.
 
 ---
 
-## 🛠 KỸ NĂNG CỦA TÔI (TECH STACK)
+## 🛠 KỸ NĂNG CỦA TÔI
+
+### 💻 Kỹ năng chuyên môn
 
 **Backend:**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Sails.js](https://img.shields.io/badge/Sails.js-14acc2?style=for-the-badge&logo=sailsdotjs&logoColor=white)
 
 **Frontend:**
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Database & Tools:**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🤝 Kỹ năng mềm
+*   Làm việc nhóm & phối hợp hiệu quả.
+*   Đọc hiểu tài liệu kỹ thuật (Tiếng Anh).
+*   Tư duy giải quyết vấn đề logic.
+*   Chủ động học hỏi công nghệ mới.
 
 ---
 
 ## 📫 Liên hệ với tôi
-*   **Email:** [Email của bạn ở đây]
-*   **LinkedIn:** [Link LinkedIn của bạn nếu có]
-*   **CV:** [Link tới file CV của bạn nếu có]
+*   **Email:** [Điền email của bạn vào đây]
+*   **Số điện thoại:** [Điền SĐT của bạn vào đây]
