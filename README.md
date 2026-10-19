@@ -15,7 +15,7 @@
 
 ## Giới thiệu
 
-Mình là sinh viên năm cuối chuyên ngành Lập trình web tại **CĐ FPT Polytechnic** (2024 – 2026, GPA 3.63/4.0). Mình đã có kinh nghiệm thực tập Full Stack tại **JITS Innovation Labs** và làm đồ án nhóm với vai trò trưởng nhóm.
+Mình là sinh viên đã tốt nghiệp chuyên ngành Lập trình web tại **CĐ FPT Polytechnic** (2024 – 2026, GPA 3.63/4.0). Mình đã có kinh nghiệm thực tập Full Stack tại **JITS Innovation Labs** và làm đồ án nhóm với vai trò trưởng nhóm.
 
 - Hướng chính: **Backend** (Node.js, PHP/Laravel, .NET), biết thêm Frontend (Next.js, Vue.js, React)
 - Quan tâm: thiết kế API, tối ưu truy vấn cơ sở dữ liệu, caching và hiệu năng hệ thống
