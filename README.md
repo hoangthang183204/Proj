@@ -21,11 +21,12 @@ Dự án mô phỏng hệ thống đặt vé xem phim thực tế với đầy �
 ### 2. 📋 TaskFlow (Hệ thống quản lý công việc)
 Ứng dụng quản lý công việc (To-do list) thông minh, hỗ trợ làm việc nhóm, phân chia task và theo dõi tiến độ công việc.
 
+*   🚀 **Trải nghiệm Web (Live Demo):** [**https://taskflow-frontend-virid.vercel.app/**](https://taskflow-frontend-virid.vercel.app/)
 *   **Frontend:** 🖥️ [Xem Source Code Frontend](https://github.com/hoangthang183204/taskflow-frontend)
 *   **Backend (API):** ⚙️ [Xem Source Code Backend](https://github.com/hoangthang183204/taskflow-backend)
 *   **Công nghệ sử dụng:**
     *   *Backend:* RESTful API, Database.
-    *   *Frontend:* Vue.js, JavaScript, Axios.
+    *   *Frontend:* Vue.js, JavaScript, Axios, Vercel (Deploy).
 
 ---
 
@@ -56,6 +57,7 @@ Dự án mô phỏng hệ thống đặt vé xem phim thực tế với đầy �
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🤝 Kỹ năng mềm
 *   Làm việc nhóm & phối hợp hiệu quả.
