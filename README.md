@@ -58,7 +58,7 @@ Dự án thực hiện trong kỳ thực tập tại **JITS Innovation Labs** (0
 
 | | |
 |---|---|
-| **Source code** | [LINK_REPO_HR_FLOW](https://github.com/hoangthang183204/TEN_REPO_HR_FLOW) |
+| **Source code** | [HR Flow Website quản lý nhân sự](https://github.com/hoangthang183204/doantotnghiep) |
 
 **Công nghệ:** PHP (MVC) · MySQL · Git/GitHub
 
