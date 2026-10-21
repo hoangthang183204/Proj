@@ -64,10 +64,12 @@ Dự án thực hiện trong kỳ thực tập tại **JITS Innovation Labs** (0
 
 **Điểm nổi bật**
 
-- Xây dựng backend bằng PHP theo mô hình MVC.
-- Thiết kế và quản lý cơ sở dữ liệu MySQL, triển khai các chức năng CRUD.
-- Xử lý đăng nhập, đăng xuất và duy trì phiên làm việc bằng Session.
-- Phân chia công việc, phối hợp với các thành viên và quản lý mã nguồn bằng Git/GitHub.
+- Phân tích nghiệp vụ và chia hệ thống theo năm vai trò: Super Admin, HR, Kế toán, Trưởng phòng, Nhân viên.
+- Xây dựng website quản lý nhân sự trên Laravel: hồ sơ, phòng ban, hợp đồng, chấm công, nghỉ phép, tăng ca, tuyển dụng, đào tạo và khen thưởng kỷ luật.
+- Thiết kế cơ sở dữ liệu MySQL và các luồng CRUD có phân quyền theo vai trò.
+- Tách nghiệp vụ HR và Kế toán: HR chốt công, phép, tăng ca; Kế toán tính lương, BHXH, thuế TNCN, duyệt ứng lương và xuất phiếu lương.
+- Làm chức năng chấm công bằng khuôn mặt, tính giờ công sau giờ nghỉ trưa và chỉ tính tăng ca khi có đơn đã duyệt.
+- Điều phối công việc trong nhóm, thống nhất quy trình và quản lý mã nguồn bằng Git/GitHub.
 
 ---
 
