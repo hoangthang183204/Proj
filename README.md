@@ -20,6 +20,37 @@
 
 <br/>
 
+<!-- ================= HIGHLIGHTS ================= -->
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="200" style="padding: 16px; background-color: rgba(30,41,59,0.4); border-radius: 12px; border: 1px solid #334155;">
+      <h2 style="color: #38bdf8; margin: 0;">3.63</h2>
+      <sub>GPA / 4.0</sub>
+    </td>
+    <td width="20"></td>
+    <td align="center" width="200" style="padding: 16px; background-color: rgba(30,41,59,0.4); border-radius: 12px; border: 1px solid #334155;">
+      <h2 style="color: #818cf8; margin: 0;">3+</h2>
+      <sub>Dự án thực chiến</sub>
+    </td>
+    <td width="20"></td>
+    <td align="center" width="200" style="padding: 16px; background-color: rgba(30,41,59,0.4); border-radius: 12px; border: 1px solid #334155;">
+      <h2 style="color: #c084fc; margin: 0;">1</h2>
+      <sub>Kỳ thực tập Full Stack</sub>
+    </td>
+    <td width="20"></td>
+    <td align="center" width="200" style="padding: 16px; background-color: rgba(30,41,59,0.4); border-radius: 12px; border: 1px solid #334155;">
+      <h2 style="color: #22c55e; margin: 0;">Open</h2>
+      <sub>Fresher / Junior Backend</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
 ---
 
 ## 👋 Về bản thân
@@ -29,7 +60,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" style="padding: 20px; background-color: rgba(30,41,59,0.4); border-radius: 12px; border: 1px solid #334155;">
 
 **🎯 Định hướng**
 
@@ -38,7 +69,8 @@
 - **Focus:** RESTful API · Thiết kế CSDL · Caching
 
 </td>
-    <td width="50%" valign="top">
+    <td width="20"></td>
+    <td width="50%" valign="top" style="padding: 20px; background-color: rgba(30,41,59,0.4); border-radius: 12px; border: 1px solid #334155;">
 
 **🔎 Đang tìm kiếm**
 
@@ -49,6 +81,8 @@
 </td>
   </tr>
 </table>
+
+<br/>
 
 ---
 
@@ -73,16 +107,18 @@
   </tr>
 </table>
 
+<br/>
+
 ---
 
 ## 🚀 Dự án nổi bật
 
 ### 🧩 TaskFlow — Hệ thống quản lý công việc
 
-<a href="https://taskflow-frontend-virid.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-0ea5e9?style=flat-square" alt="Demo" /></a>
-<a href="https://github.com/hoangthang183204/taskflow-frontend"><img src="https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github" alt="Frontend" /></a>
-<a href="https://github.com/hoangthang183204/taskflow-backend"><img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github" alt="Backend" /></a>
-<img src="https://img.shields.io/badge/Internship-04/2026–07/2026-6366f1?style=flat-square" alt="Timeline" />
+<a href="https://taskflow-frontend-virid.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Demo-0ea5e9?style=for-the-badge" alt="Demo" /></a>
+<a href="https://github.com/hoangthang183204/taskflow-frontend"><img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github" alt="Frontend" /></a>
+<a href="https://github.com/hoangthang183204/taskflow-backend"><img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github" alt="Backend" /></a>
+<img src="https://img.shields.io/badge/Internship-04%2F2026–07%2F2026-6366f1?style=for-the-badge" alt="Timeline" />
 
 *Dự án trong kỳ thực tập tại **JITS Innovation Labs**. Hệ thống quản lý công việc hỗ trợ làm việc nhóm và cập nhật trạng thái theo thời gian thực.*
 
@@ -93,15 +129,21 @@
 | ⚡ **Hiệu năng & Realtime** | Redis Cache, Rate Limiting, WebSocket |
 | 🚢 **UX & DevOps** | Optimistic UI trên Next.js, đóng gói Docker, CI/CD tự động |
 
-<img src="https://img.shields.io/badge/Sails.js-14B8A6?style=flat-square&logo=sailsdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<p align="center">
+<img src="https://img.shields.io/badge/Sails.js-14B8A6?style=flat-square&logo=sailsdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
 <br/>
 
 ### 👥 HR Flow — Website quản lý nhân sự
 
-<a href="https://github.com/hoangthang183204/doantotnghiep"><img src="https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github" alt="Source" /></a>
-<img src="https://img.shields.io/badge/Capstone-05/2026–08/2026-6366f1?style=flat-square" alt="Timeline" />
-<img src="https://img.shields.io/badge/Role-Team_Leader-f59e0b?style=flat-square" alt="Role" />
+<a href="https://github.com/hoangthang183204/doantotnghiep"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" alt="Source" /></a>
+<img src="https://img.shields.io/badge/Capstone-05%2F2026–08%2F2026-6366f1?style=for-the-badge" alt="Timeline" />
+<img src="https://img.shields.io/badge/Role-Team_Leader-f59e0b?style=for-the-badge" alt="Role" />
 
 *Đồ án tốt nghiệp nhóm — hệ thống quản lý nhân sự đa vai trò, tách biệt nghiệp vụ HR và Kế toán.*
 
@@ -112,15 +154,18 @@
 | 🙂 **Chấm công** | Chấm công bằng khuôn mặt, tự động tính giờ và tăng ca |
 | 🤝 **Teamwork** | Trưởng nhóm điều phối công việc, quản lý mã nguồn qua Git |
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 <br/>
 
 ### 🎬 Cinema Booking System — Đặt vé xem phim
 
-<a href="https://github.com/hoangthang183204/CinemaBooking-Vue"><img src="https://img.shields.io/badge/Frontend_(Vue.js_3)-42B883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Frontend" /></a>
-<a href="https://github.com/hoangthang183204/CinemaBooking-API"><img src="https://img.shields.io/badge/Backend_(.NET)-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Backend" /></a>
-<img src="https://img.shields.io/badge/Full_Stack-0ea5e9?style=flat-square" alt="Type" />
+<a href="https://github.com/hoangthang183204/CinemaBooking-Vue"><img src="https://img.shields.io/badge/Frontend_(Vue.js_3)-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Frontend" /></a>
+<a href="https://github.com/hoangthang183204/CinemaBooking-API"><img src="https://img.shields.io/badge/Backend_(.NET)-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Backend" /></a>
+<img src="https://img.shields.io/badge/Full_Stack-0ea5e9?style=for-the-badge" alt="Type" />
 
 *Mô phỏng quy trình đặt vé xem phim thực tế: quản lý phim, lịch chiếu, chọn ghế, thanh toán và thống kê.*
 
@@ -129,6 +174,8 @@
 | 🔐 **Xác thực** | Bảo mật bằng JWT, phân quyền User và Admin |
 | 💳 **Thanh toán** | Tích hợp cổng VNPay & MoMo (Sandbox) |
 | 📈 **Thống kê** | Báo cáo doanh thu cho admin, truy vấn qua EF Core + SQL Server |
+
+<br/>
 
 ---
 
@@ -140,6 +187,25 @@
   <br/>
   <img width="85%" src="https://streak-stats.demolab.com/?user=hoangthang183204&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
+
+<br/>
+
+---
+
+## 💬 Châm ngôn
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 24px; background: linear-gradient(135deg, rgba(14,165,233,0.15) 0%, rgba(168,85,247,0.15) 100%); border-radius: 12px; border: 1px solid #334155;">
+        <h3 style="color: #38bdf8; margin: 0;">"Code hôm nay — Chạy ngày mai — Học mỗi ngày."</h3>
+        <sub>— Hoàng Quang Thắng</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
 
 ---
 
