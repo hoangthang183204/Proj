@@ -1,34 +1,23 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Hoàng%20Quang%20Thắng&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Fresher%20Backend%20Developer&descAlignY=55&descSize=20&animation=twinkling" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hoàng%20Quang%20Thắng&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Fresher%20Backend%20Developer&descAlignY=55&descSize=18&animation=twinkling" alt="header" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Backend+Developer+%7C+Node.js+%2B+PHP%2FLaravel+%2B+.NET;Xây+dựng+RESTful+API+và+thiết+kế+CSDL;Tối+ưu+hiệu+năng+%26+caching+với+Redis;Đang+tìm+Fresher+%2F+Junior+Backend+tại+Hà+Nội" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Node.js+%2B+PHP%2B+.NET;Xây+dựng+RESTful+API+và+thiết+kế+CSDL;Tối+ưu+hiệu+năng+%26+caching+với+Redis;Tìm+kiếm+Fresher+%2F+Junior+Backend+tại+Hà+Nội" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <a href="mailto:thanghoang182004@gmail.com"><img src="https://img.shields.io/badge/📧_Email-thanghoang182004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/hoangthang183204"><img src="https://img.shields.io/badge/🐙_GitHub-hoangthang183204-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/📍_Hà_Nội-Việt_Nam-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://komarev.com/ghpvc/?username=hoangthang183204&label=👁️+Views&color=6366f1&style=for-the-badge" alt="Profile views" />
+  <a href="mailto:thanghoang182004@gmail.com"><img src="https://img.shields.io/badge/Email-thanghoang182004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/hoangthang183204"><img src="https://img.shields.io/badge/GitHub-hoangthang183204-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Location-Hà_Nội,_Việt_Nam-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=hoangthang183204&label=Profile+Views&color=6366f1&style=for-the-badge" alt="Profile views" />
 </div>
 
 <br/>
 
 <h2 align="center">👋 Giới thiệu</h2>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 Định hướng
-
-
-</td>
-</tr>
-</table>
 
 <div align="center">
   <i>💡 Sinh viên tốt nghiệp <b>Lập trình web — CĐ FPT Polytechnic</b> (2024–2026, GPA 3.63/4.0).<br/> Đã thực tập Full Stack tại <b>JITS Innovation Labs</b> và làm <b>trưởng nhóm</b> đồ án tốt nghiệp.</i>
@@ -36,19 +25,41 @@
 
 <br/>
 
+<table align="center" style="border-collapse: collapse; width: 100%; max-width: 800px;">
+  <tr>
+    <td width="50%" valign="top" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117;">
+      <h3 align="center">🎯 Định hướng</h3>
+      <ul>
+        <li>🔹 <b>Backend:</b> Node.js, PHP, .NET</li>
+        <li>🔸 <b>Frontend:</b> Next.js, Vue, React</li>
+        <li>🔍 <b>Focus:</b> API, CSDL, Caching</li>
+      </ul>
+    </td>
+    <td width="5%"></td>
+    <td width="50%" valign="top" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117;">
+      <h3 align="center">🔎 Đang tìm kiếm</h3>
+      <ul>
+        <li>🎓 <b>Trường:</b> FPT Polytechnic (GPA 3.63)</li>
+        <li>💼 <b>Vị trí:</b> Fresher / Junior Backend</li>
+        <li>📍 <b>Địa điểm:</b> Hà Nội, Việt Nam</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
-
-### 💻 Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,cs,dotnet,mongodb,mysql,redis&theme=dark&perline=8" alt="Backend stack" />
-
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=nextjs,react,vue,js,html,css,tailwind&theme=dark&perline=7" alt="Frontend stack" />
-
-### ⚙️ Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&theme=dark&perline=6" alt="Tools stack" />
-
+  <h3>💻 Backend & Database</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,cs,dotnet,mongodb,mysql,redis&theme=dark&perline=8" alt="Backend stack" />
+  
+  <h3>🎨 Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,js,html,css,tailwind&theme=dark&perline=7" alt="Frontend stack" />
+  
+  <h3>⚙️ Tools & DevOps</h3>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&theme=dark&perline=6" alt="Tools stack" />
 </div>
 
 <br/>
@@ -66,34 +77,10 @@
 
 > 💼 Dự án trong kỳ **thực tập tại JITS Innovation Labs**. Hệ thống quản lý công việc hỗ trợ làm việc nhóm và cập nhật trạng thái **theo thời gian thực**.
 
-<table>
-<tr>
-<td width="50%">
-
-**🛡️ API & Bảo mật**
-- RESTful API với Sails.js
-- Xác thực **JWT**
-- Phân quyền người dùng
-
-**⚡ Tối ưu CSDL**
-- Index & Pagination trên MongoDB
-- Xử lý **N+1 Query**
-
-</td>
-<td width="50%">
-
-**🚀 Hiệu năng & Realtime**
-- **Redis Cache** + **Rate Limiting**
-- **WebSocket** cập nhật task tức thì
-
-**✨ UX & DevOps**
-- **Optimistic UI** trên Next.js
-- **Docker** + **CI/CD** tự động
-- API Testing, Git/GitHub teamwork
-
-</td>
-</tr>
-</table>
+- **API & Bảo mật:** RESTful API với Sails.js, xác thực **JWT**, phân quyền người dùng.
+- **Tối ưu CSDL:** Dùng Index & Pagination trên MongoDB, xử lý triệt để **N+1 Query**.
+- **Hiệu năng & Realtime:** Áp dụng **Redis Cache**, **Rate Limiting** và **WebSocket** cập nhật task tức thì.
+- **UX & DevOps:** **Optimistic UI** trên Next.js, đóng gói **Docker**, tự động hóa **CI/CD**, API Testing và quản lý mã nguồn qua Git.
 
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
@@ -105,7 +92,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </div>
 
-<br/>
+<br/><hr/><br/>
 
 <h3>👥 HR Flow — Website quản lý nhân sự</h3>
 
@@ -117,33 +104,10 @@
 
 > 🎓 **Đồ án tốt nghiệp nhóm** — Hệ thống quản lý nhân sự đa vai trò, tách biệt nghiệp vụ HR và Kế toán.
 
-<table>
-<tr>
-<td width="50%">
-
-**🧭 Phân tích & Phân quyền**
-- 5 vai trò: **Super Admin · HR · Kế toán · Trưởng phòng · Nhân viên**
-- Thiết kế CSDL **MySQL** + luồng CRUD phân quyền
-
-**💰 Nghiệp vụ kép**
-- **HR:** chốt công, phép, tăng ca
-- **Kế toán:** lương, BHXH, thuế TNCN, ứng lương, phiếu lương
-
-</td>
-<td width="50%">
-
-**📸 Chấm công thông minh**
-- Chấm công bằng **khuôn mặt**
-- Tính giờ công sau nghỉ trưa
-- Chỉ tính tăng ca khi có đơn đã duyệt
-
-**🤝 Teamwork**
-- Trưởng nhóm điều phối công việc
-- Quản lý mã nguồn qua **Git/GitHub**
-
-</td>
-</tr>
-</table>
+- **Phân tích & Phân quyền:** Hệ thống 5 vai trò (Super Admin, HR, Kế toán, Trưởng phòng, Nhân viên), thiết kế CSDL **MySQL** và luồng CRUD phân quyền chặt chẽ.
+- **Nghiệp vụ kép:** Tách biệt rõ ràng giữa HR (chốt công, phép, tăng ca) và Kế toán (tính lương, BHXH, thuế TNCN, ứng lương).
+- **Chấm công thông minh:** Tích hợp chấm công bằng **khuôn mặt**, tự động tính giờ công sau nghỉ trưa và chỉ tính tăng ca khi có đơn đã duyệt.
+- **Teamwork:** Trưởng nhóm điều phối công việc, thống nhất quy trình và quản lý mã nguồn qua **Git/GitHub**.
 
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
@@ -152,7 +116,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
 
-<br/>
+<br/><hr/><br/>
 
 <h3>🎬 Cinema Booking System — Đặt vé xem phim</h3>
 
@@ -164,31 +128,9 @@
 
 > 🎟️ Mô phỏng quy trình đặt vé xem phim thực tế: quản lý phim, phòng chiếu, lịch chiếu, chọn ghế, thanh toán trực tuyến và thống kê doanh thu.
 
-<table>
-<tr>
-<td width="50%">
-
-**🔐 Xác thực & Phân quyền**
-- JWT giữa User và Admin
-- Quản lý phim, phòng chiếu, lịch chiếu
-
-**🎟️ Chọn ghế**
-- Chọn ghế theo từng suất chiếu
-- Trạng thái ghế realtime
-
-</td>
-<td width="50%">
-
-**💳 Thanh toán**
-- Tích hợp **VNPay** & **MoMo** (Sandbox)
-
-**📊 Thống kê**
-- Doanh thu cho admin
-- Truy vấn qua **EF Core** + SQL Server
-
-</td>
-</tr>
-</table>
+- **Xác thực & Phân quyền:** Bảo mật bằng JWT, phân quyền User và Admin.
+- **Đặt vé & Thanh toán:** Quản lý lịch chiếu, chọn ghế realtime, tích hợp cổng thanh toán **VNPay** & **MoMo** (Sandbox).
+- **Thống kê:** Báo cáo doanh thu dành cho quản trị viên, truy vấn dữ liệu qua **EF Core** + SQL Server.
 
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
@@ -205,54 +147,22 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hoangthang183204&show_icons=true&theme=tokyonight&hide_border=false&border_color=6366f1&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=6366f1&text_color=c9d1d9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangthang183204&layout=compact&theme=tokyonight&hide_border=false&border_color=6366f1&langs_count=8&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hoangthang183204&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangthang183204&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   <br/><br/>
-  <img width="70%" src="https://streak-stats.demolab.com/?user=hoangthang183204&theme=tokyonight&hide_border=false&border=6366f1&background=0d1117&stroke=6366f1&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<h2 align="center">🏆 Thành tích & Hoạt động</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hoangthang183204&theme=tokyonight&no-frame=false&no-bg=false&column=7&margin-w=8&margin-h=8" alt="Trophy" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=hoangthang183204&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hoangthang183204&theme=tokyo-night&hide_border=false&border_color=6366f1&bg_color=0d1117&color=38bdf8&line=6366f1&point=f59e0b&area=true&area_color=6366f1" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hoangthang183204&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophy" />
 </div>
 
 <br/>
 
-<h2 align="center">🐍 Đóng góp</h2>
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangthang183204/hoangthang183204/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangthang183204/hoangthang183204/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/hoangthang183204/hoangthang183204/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<br/>
-
-<h2 align="center">💬 Châm ngôn</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="600">
-        <br/>
-        <i style="font-size:18px">"Code hôm nay — Chạy ngày mai — Học mỗi ngày."</i>
-        <br/><br/>
-        <sub>— Hoàng Quang Thắng</sub>
-        <br/><br/>
-      </td>
-    </tr>
-  </table>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hoangthang183204&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=6366f1&point=f59e0b&area=true" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -260,12 +170,12 @@
 <h2 align="center">📫 Liên hệ</h2>
 
 <div align="center">
-  <a href="mailto:thanghoang182004@gmail.com"><img src="https://img.shields.io/badge/📧_Gửi_Email-thanghoang182004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/hoangthang183204"><img src="https://img.shields.io/badge/🐙_Theo_dõi_GitHub-hoangthang183204-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:thanghoang182004@gmail.com"><img src="https://img.shields.io/badge/Gửi_Email-thanghoang182004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/hoangthang183204"><img src="https://img.shields.io/badge/Theo_dõi_GitHub-hoangthang183204-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <br/><br/>
   <i>✨ Cảm ơn bạn đã ghé thăm profile! Rất vui được kết nối ✨</i>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&animation=twinkling" alt="footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="footer" width="100%" />
 </div>
