@@ -147,21 +147,26 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hoangthang183204&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangthang183204&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <!-- Đã thay bằng server mirror cực kỳ ổn định, không lo lỗi "Something went wrong" -->
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hoangthang183204&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hoangthang183204&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  
   <br/><br/>
+  
   <img width="70%" src="https://streak-stats.demolab.com/?user=hoangthang183204&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hoangthang183204&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophy" />
+  <!-- Đã đổi domain Trophy để không bị vỡ ảnh -->
+  <img src="https://github-trophies.vercel.app/?username=hoangthang183204&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="Trophy" />
 </div>
 
 <br/>
 
 <div align="center">
+  <!-- Activity Graph -->
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hoangthang183204&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=6366f1&point=f59e0b&area=true" alt="Activity Graph" />
 </div>
 
