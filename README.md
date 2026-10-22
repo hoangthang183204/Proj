@@ -208,7 +208,7 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hoangthang183204&show_icons=true&theme=tokyonight&hide_border=false&border_color=6366f1&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38bdf8&icon_color=6366f1&text_color=c9d1d9" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangthang183204&layout=compact&theme=tokyonight&hide_border=false&border_color=6366f1&langs_count=8&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top Languages" />
   <br/><br/>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hoangthang183204&theme=tokyonight&hide_border=false&border=6366f1&background=0d1117&stroke=6366f1&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8" alt="GitHub Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=hoangthang183204&theme=tokyonight&hide_border=false&border=6366f1&background=0d1117&stroke=6366f1&ring=38bdf8&fire=f59e0b&currStreakLabel=38bdf8" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -242,7 +242,17 @@
 <h2 align="center">💬 Châm ngôn</h2>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <table>
+    <tr>
+      <td align="center" width="600">
+        <br/>
+        <i style="font-size:18px">"Code hôm nay — Chạy ngày mai — Học mỗi ngày."</i>
+        <br/><br/>
+        <sub>— Hoàng Quang Thắng</sub>
+        <br/><br/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
