@@ -11,11 +11,16 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:thanghoang182004@gmail.com"><img src="https://img.shields.io/badge/Email-0ea5e9?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/hoangthang183204"><img src="https://img.shields.io/badge/GitHub-6366f1?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://img.shields.io/badge/Hà_Nội,_Việt_Nam-a855f7?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Open_to_work-22c55e?style=flat-square&logo=target&logoColor=white" alt="Open to work" />
-  <img src="https://komarev.com/ghpvc/?username=hoangthang183204&label=Views&color=0ea5e9&style=flat-square" alt="Profile views" />
+  <a href="mailto:thanghoang182004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-thanghoang182004%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/hoangthang183204">
+    <img src="https://img.shields.io/badge/GitHub-hoangthang183204-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Hà_Nội,_Việt_Nam-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-Open_to_work-22c55e?style=flat-square&logo=checkmarx&logoColor=white" alt="Open to work" />
+  <br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hoangthang183204.hoangthang183204&left_color=gray&right_color=blue" alt="Profile views" />
 </div>
 
 <br/>
