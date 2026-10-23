@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=220&section=header&text=Hoàng%20Quang%20Thắng&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descSize=20&animation=twinkling" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=220&section=header&text=Hoàng%20Quang%20Thắng&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Development&descAlignY=55&descSize=20&animation=twinkling" alt="header" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&height=40&lines=Đam+mê+xây+dựng+hệ+thống+Backend+vững+chắc;Thiết+kế+CSDL+và+tối+ưu+RESTful+API;Tối+ưu+hiệu+năng+với+Redis+và+Caching;Luôn+học+hỏi+và+cập+nhật+công+nghệ+mới" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&height=40&lines=Đam+mê+xây+dựng+hệ+thống+và+phát+triển+phần+mềm;Thiết+kế+CSDL+và+tối+ưu+RESTful+API;Tối+ưu+hiệu+năng+với+Redis+và+Caching;Luôn+học+hỏi+và+cập+nhật+công+nghệ+mới" alt="Typing SVG" />
   </a>
 </div>
 
@@ -44,7 +44,7 @@
     <td width="50%" valign="top">
 
 **🚀 Mục tiêu phát triển**
-- **Vị trí:** Backend Developer
+- **Vị trí:** Software Engineer / Developer
 - **Định hướng:** Xây dựng hệ thống tối ưu, bảo mật và khả năng mở rộng cao
 - **Địa điểm:** Hà Nội, Việt Nam
 
@@ -58,19 +58,19 @@
 
 <table>
   <tr>
-    <td width="140"><b>⚙️ Backend</b></td>
+    <td width="180" style="white-space: nowrap;"><b>⚙️ Backend</b></td>
     <td><img src="https://skillicons.dev/icons?i=nodejs,php,laravel,cs,dotnet&theme=dark" alt="Backend" /></td>
   </tr>
   <tr>
-    <td><b>🗄️ Database</b></td>
+    <td style="white-space: nowrap;"><b>🗄️ Database</b></td>
     <td><img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Database" /></td>
   </tr>
   <tr>
-    <td><b>🎨 Frontend</b></td>
+    <td style="white-space: nowrap;"><b>🎨 Frontend</b></td>
     <td><img src="https://skillicons.dev/icons?i=nextjs,react,vue,js,html,css&theme=dark" alt="Frontend" /></td>
   </tr>
   <tr>
-    <td><b>🧰 Tools & DevOps</b></td>
+    <td style="white-space: nowrap;"><b>🧰 Tools & DevOps</b></td>
     <td><img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark" alt="Tools" /></td>
   </tr>
 </table>
