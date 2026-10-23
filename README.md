@@ -103,17 +103,23 @@
 <img src="https://img.shields.io/badge/Đồ_án_TN-05/2026–08/2026-6366f1?style=flat-square" alt="Timeline" />
 <img src="https://img.shields.io/badge/Vai_trò-Trưởng_nhóm-f59e0b?style=flat-square" alt="Role" />
 
-*Đồ án tốt nghiệp nhóm — hệ thống quản lý nhân sự đa vai trò, tách biệt nghiệp vụ HR và Kế toán.*
+*Đồ án tốt nghiệp nhóm — hệ thống quản lý nhân sự đa vai trò (5 vai trò), tách biệt nghiệp vụ HR và Kế toán, bao phủ trọn luồng cuối tháng từ chốt công đến chi trả lương.*
 
 | | |
 |---|---|
-| 🛡️ **Phân quyền** | Hệ thống 5 vai trò, thiết kế CSDL MySQL, luồng CRUD phân quyền chặt chẽ |
-| 🧾 **Nghiệp vụ kép** | Tách biệt HR (chốt công, phép) và Kế toán (tính lương, BHXH, thuế) |
-| 🙂 **Chấm công** | Chấm công bằng khuôn mặt, tự động tính giờ công và tăng ca |
-| 🤝 **Teamwork** | Trưởng nhóm điều phối công việc, quản lý mã nguồn qua Git |
+| 🛡️ **Phân quyền** | 5 vai trò (Super Admin, HR, Kế toán, Trưởng phòng, Nhân viên), phân quyền chi tiết theo từng chức năng, thiết kế CSDL MySQL |
+| 🧾 **Nghiệp vụ kép** | Tách biệt HR (chốt công, phép, hợp đồng) và Kế toán (tính lương, BHXH, thuế); Kế toán chỉ sửa STK & MST, không xem kỷ luật |
+| 🙂 **Chấm công khuôn mặt** | Nhận diện chạy tiến trình nền, chỉ lưu đặc trưng khuôn mặt (không lưu ảnh gốc), kiểm tra người thật, chặn lượt gửi trùng + giới hạn số lần gọi |
+| 🗄️ **Tối ưu truy vấn** | Index chấm công theo (nhân viên, ngày) & lương theo kỳ; nạp công/phép/tăng ca/hợp đồng một lần khi tính lương — tránh N+1 |
+| 🔒 **Khóa đồng thời** | Khóa tính lương theo tháng (người sau phải đợi, không tạo 2 bảng lương); khóa dòng đơn nghỉ khi duyệt (không trừ phép 2 lần) |
+| 🛡️ **Bảo mật & audit** | Mã hóa CCCD/MST/BHXH/tài khoản ngân hàng; ghi nhật ký giá trị cũ/mới khi sửa lương hoặc giờ công; Trưởng phòng chỉ xem lương phòng mình |
+| 💰 **Lương – thuế – BHXH** | Tính lương từ công, phép, lễ, tăng ca, phụ cấp, thưởng, khấu trừ; cấu hình BHXH/BHYT/BHTN & thuế TNCN theo năm; quyết toán mẫu 05/KK, 05/QTT |
+| 📅 **Luồng cuối tháng** | 25–28 HR khóa sổ & thông báo; 28–30 Kế toán tính/duyệt nháp; 1–3 tháng sau gửi phiếu lương, xuất file chi trả/XML thuế; Super Admin tính lương được khi HR chưa chốt |
+| 📤 **Xuất dữ liệu nền** | Xuất Excel chạy nền xong thì báo; nhập/xuất Excel hồ sơ kèm file mẫu; xuất PDF/Excel hợp đồng, phiếu lương, báo cáo theo phòng |
+| 🔔 **Vận hành** | Checklist nhận/nghỉ việc, tài sản cấp phát/thu hồi, KPI, đào tạo, khen thưởng/kỷ luật; thông báo đánh dấu đã đọc; nhắc chấm công, sao lưu CSDL theo lịch |
 
 <p align="center">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 <br/>
@@ -121,19 +127,24 @@
 ### 🎬 Cinema Booking System — Đặt vé xem phim
 
 <a href="https://github.com/hoangthang183204/CinemaBooking-Vue"><img src="https://img.shields.io/badge/Frontend_(Vue.js_3)-42B883?style=flat-square&logo=vuedotjs&logoColor=white" alt="Frontend" /></a>
-<a href="https://github.com/hoangthang183204/CinemaBooking-API"><img src="https://img.shields.io/badge/Backend_(.NET)-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Backend" /></a>
+<a href="https://github.com/hoangthang183204/CinemaBooking-API"><img src="https://img.shields.io/badge/Backend_(.NET_6)-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Backend" /></a>
 <img src="https://img.shields.io/badge/Dự_án_cá_nhân-0ea5e9?style=flat-square" alt="Type" />
 
-*Mô phỏng quy trình đặt vé xem phim thực tế: quản lý phim, lịch chiếu, chọn ghế, thanh toán và thống kê.*
+*Hệ thống đặt vé xem phim đa vai trò gồm web khách, quầy nhân viên và trang quản trị. Mô phỏng quy trình vận hành rạp thực tế: chọn ghế giữ tạm, bắp nước, mã giảm giá, thanh toán trực tuyến & tại quầy, soát vé QR, quản lý ca trực và báo cáo doanh thu.*
 
 | | |
 |---|---|
-| 🔐 **Xác thực** | Bảo mật bằng JWT, phân quyền User và Admin |
-| 💳 **Thanh toán** | Tích hợp cổng VNPay & MoMo (Sandbox) |
-| 📈 **Thống kê** | Báo cáo doanh thu cho admin, truy vấn qua EF Core + SQL Server |
+| 🎟️ **Giữ ghế & tồn kho tạm** | Giữ ghế 10 phút, tối đa 8 ghế/đơn, tối đa 8 phần mỗi món; job quét mỗi phút tự hủy đơn chờ quá 10 phút, trả ghế/bắp nước/lượt mã giảm giá; khách trả muộn không mở lại đơn |
+| 💳 **Thanh toán tách khoản** | Tách tiền ghế, bắp nước, phụ thu (cuối tuần, suất tối), số tiền giảm và tổng phải trả; tích hợp VNPay, MoMo, QR chuyển khoản |
+| 🎫 **Vé của tôi & soát vé** | Thẻ vé 4 vé/trang, xem QR từng ghế, hủy vé đã trả nếu còn hơn 2 giờ trước giờ chiếu; soát QR phân biệt màu vé hợp lệ/đã dùng/sai suất |
+| 🕐 **Xử lý thời gian & ca trực** | Giờ chiếu lưu theo giờ Việt Nam; ca sang ngày mới tự đóng; trạng thái trực chỉ lấy ca mới nhất; doanh thu nhân viên tính theo ngày; không tự nhận bàn giao của chính mình |
+| 📊 **Dashboard & báo cáo** | Doanh thu, tỷ lệ lấp đầy ghế, cảnh báo, đơn gần đây, phim bán chạy; lọc 7/14/20/30/60 ngày, năm nay/năm trước hoặc tự chọn; bấm cột xem đơn; xuất Excel theo phim/phòng/khung giờ |
+| ⚙️ **Ràng buộc nghiệp vụ** | Suất sau cách phim trước kết thúc ít nhất 30 phút; suất qua giờ không đặt được; cấu hình giá vé, phụ thu, giờ mở/đóng cửa, ngưỡng cảnh báo bắp nước |
+| 🔄 **Đồng bộ & UX** | Trang nhân viên/ca trực tự làm mới ~8 giây, lỗi không xóa bảng đang xem; phân trang phim 8, vé 4, quản trị 10, lịch sử ca 6; chế độ sáng/tối; ảnh tải lên máy chủ |
+| 🔐 **Xác thực** | JWT, BCrypt, Google OAuth 2.0 (Client Secret chỉ ở server); cùng email vào đúng tài khoản cũ, giữ vai trò, không tạo trùng; phiên giữ 24 giờ sau khi tắt trình duyệt |
 
 <p align="center">
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/.NET_6-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js_3-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </p>
 
 ---
