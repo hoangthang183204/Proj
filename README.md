@@ -1,7 +1,6 @@
- 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:7c3aed&height=230&section=header&text=Ho%C3%A0ng%20Quang%20Th%E1%BA%AFng&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=L%E1%BA%ADp%20tr%C3%ACnh%20vi%C3%AAn%20Backend&descSize=19&descAlignY=58&descColor=e2e8f0&animation=fadeIn" width="100%" alt="Ảnh bìa hồ sơ GitHub"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:7c3aed&height=230&section=header&text=Ho%C3%A0ng%20Quang%20Th%E1%BA%AFng&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer&descSize=19&descAlignY=58&descColor=e2e8f0&animation=fadeIn" width="100%" alt="Ảnh bìa hồ sơ GitHub"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&height=45&lines=X%C3%A2y+d%E1%BB%B1ng+RESTful+API+hi%E1%BB%87u+qu%E1%BA%A3;Thi%E1%BA%BFt+k%E1%BA%BF+CSDL+v%C3%A0+t%E1%BB%91i+%C6%B0u+truy+v%E1%BA%A5n;T%C3%ACm+hi%E1%BB%83u+Caching+v%C3%A0+hi%E1%BB%87u+n%C4%83ng;Kh%C3%B4ng+ng%E1%BB%ABng+h%E1%BB%8Dc+h%E1%BB%8Fi+v%C3%A0+ph%C3%A1t+tri%E1%BB%83n" alt="Giới thiệu chuyển động"/>
 
@@ -10,10 +9,6 @@
 <a href="mailto:thanghoang182004@gmail.com"><img src="https://img.shields.io/badge/Email-Li%C3%AAn%20h%E1%BB%87-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/hoangthang183204"><img src="https://img.shields.io/badge/GitHub-H%E1%BB%93%20s%C6%A1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <img src="https://img.shields.io/badge/%C4%90%E1%BB%8Ba_%C4%91i%E1%BB%83m-H%C3%A0_N%E1%BB%99i-2563eb?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Địa điểm"/>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=hoangthang183204&style=flat-square&color=2563eb&label=L%C6%B0%E1%BB%A3t+truy+c%E1%BA%ADp" alt="Lượt truy cập hồ sơ"/>
 
 </div>
 
