@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=220&section=header&text=Hoàng%20Quang%20Thắng&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Fresher%20Backend%20Developer&descAlignY=55&descSize=20&animation=twinkling" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6366f1,100:a855f7&height=220&section=header&text=Hoàng%20Quang%20Thắng&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer&descAlignY=55&descSize=20&animation=twinkling" alt="header" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&height=40&lines=Backend+Developer+%7C+Node.js+%2B+PHP+%2B+.NET;Xây+dựng+RESTful+API+và+thiết+kế+CSDL;Tối+ưu+hiệu+năng+%26+caching+với+Redis;Tìm+kiếm+Fresher+%2F+Junior+Backend+tại+Hà+Nội" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&height=40&lines=Đam+mê+xây+dựng+hệ+thống+Backend+vững+chắc;Thiết+kế+CSDL+và+tối+ưu+RESTful+API;Tối+ưu+hiệu+năng+với+Redis+và+Caching;Luôn+học+hỏi+và+cập+nhật+công+nghệ+mới" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,7 +18,6 @@
     <img src="https://img.shields.io/badge/GitHub-hoangthang183204-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://img.shields.io/badge/Location-Hà_Nội,_Việt_Nam-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Status-Open_to_work-22c55e?style=flat-square&logo=checkmarx&logoColor=white" alt="Open to work" />
   <br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hoangthang183204.hoangthang183204&left_color=gray&right_color=blue" alt="Profile views" />
 </div>
@@ -44,9 +43,9 @@
 </td>
     <td width="50%" valign="top">
 
-**🔎 Đang tìm kiếm cơ hội**
-- **Vị trí:** Fresher / Junior Backend Developer
-- **Hình thức:** Thực tập hoặc Full-time
+**🚀 Mục tiêu phát triển**
+- **Vị trí:** Backend Developer
+- **Định hướng:** Xây dựng hệ thống tối ưu, bảo mật và khả năng mở rộng cao
 - **Địa điểm:** Hà Nội, Việt Nam
 
 </td>
@@ -169,7 +168,7 @@
 
 <div align="center">
 
-Mình đang tìm cơ hội **thực tập hoặc Full-time** vị trí **Fresher / Junior Backend Developer** tại Hà Nội.
+Cảm ơn bạn đã ghé thăm profile của mình. Hãy kết nối để cùng trao đổi về công nghệ và phát triển phần mềm!
 
 <a href="mailto:thanghoang182004@gmail.com"><img src="https://img.shields.io/badge/Gửi_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/hoangthang183204"><img src="https://img.shields.io/badge/Theo_dõi_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
