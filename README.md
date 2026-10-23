@@ -63,15 +63,15 @@
   </tr>
   <tr>
     <td><b>🗄️ Database</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" alt="Database" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" alt="Database" /></td>
   </tr>
   <tr>
     <td><b>🎨 Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nextjs,react,vue,js,html,css,tailwind&theme=dark" alt="Frontend" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nextjs,react,vue,js,html,css&theme=dark" alt="Frontend" /></td>
   </tr>
   <tr>
     <td><b>🧰 Tools & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux&theme=dark" alt="Tools" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark" alt="Tools" /></td>
   </tr>
 </table>
 
