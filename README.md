@@ -90,10 +90,10 @@
 
 | | |
 |---|---|
-| **[Auth]** **API & Bảo mật** | RESTful API với Sails.js, xác thực JWT, phân quyền người dùng |
-| **[DB]** **Tối ưu CSDL** | Index & Pagination trên MongoDB, xử lý triệt để N+1 Query |
-| **[Perf]** **Hiệu năng & Realtime** | Redis Cache, Rate Limiting, WebSocket |
-| **[DevOps]** **UX & CI/CD** | Optimistic UI trên Next.js, đóng gói Docker, CI/CD tự động |
+| <img src="https://img.icons8.com/ios-filled/20/8b5cf6/key.png" valign="middle"/> **API & Bảo mật** | RESTful API với Sails.js, xác thực JWT, phân quyền người dùng |
+| <img src="https://img.icons8.com/ios-filled/20/3b82f6/database.png" valign="middle"/> **Tối ưu CSDL** | Index & Pagination trên MongoDB, xử lý triệt để N+1 Query |
+| <img src="https://img.icons8.com/ios-filled/20/10b981/lightning-bolt.png" valign="middle"/> **Hiệu năng & Realtime** | Redis Cache, Rate Limiting, WebSocket |
+| <img src="https://img.icons8.com/ios-filled/20/f59e0b/docker.png" valign="middle"/> **UX & CI/CD** | Optimistic UI trên Next.js, đóng gói Docker, CI/CD tự động |
 
 <p align="center">
 <img src="https://img.shields.io/badge/Sails.js-14B8A6?style=flat-square&logo=sailsdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -111,16 +111,16 @@
 
 | | |
 |---|---|
-| **[ACL]** **Phân quyền** | 5 vai trò (Super Admin, HR, Kế toán, Trưởng phòng, Nhân viên), phân quyền chi tiết theo từng chức năng, thiết kế CSDL MySQL |
-| **[HR/ACC]** **Nghiệp vụ kép** | Tách biệt HR (chốt công, phép, hợp đồng) và Kế toán (tính lương, BHXH, thuế); Kế toán chỉ sửa STK & MST, không xem kỷ luật |
-| **[FaceID]** **Chấm công khuôn mặt** | Nhận diện chạy tiến trình nền, chỉ lưu đặc trưng khuôn mặt (không lưu ảnh gốc), kiểm tra người thật, chặn lượt gửi trùng + giới hạn số lần gọi |
-| **[DB Index]** **Tối ưu truy vấn** | Index chấm công theo (nhân viên, ngày) & lương theo kỳ; nạp công/phép/tăng ca/hợp đồng một lần khi tính lương — tránh N+1 |
-| **[Lock]** **Khóa đồng thời** | Khóa tính lương theo tháng (người sau phải đợi, không tạo 2 bảng lương); khóa dòng đơn nghỉ khi duyệt (không trừ phép 2 lần) |
-| **[Security]** **Bảo mật & audit** | Mã hóa CCCD/MST/BHXH/tài khoản ngân hàng; ghi nhật ký giá trị cũ/mới khi sửa lương hoặc giờ công; Trưởng phòng chỉ xem lương phòng mình |
-| **[Payroll]** **Lương – thuế – BHXH** | Tính lương từ công, phép, lễ, tăng ca, phụ cấp, thưởng, khấu trừ; cấu hình BHXH/BHYT/BHTN & thuế TNCN theo năm; quyết toán mẫu 05/KK, 05/QTT |
-| **[Timeline]** **Luồng cuối tháng** | 25–28 HR khóa sổ & thông báo; 28–30 Kế toán tính/duyệt nháp; 1–3 tháng sau gửi phiếu lương, xuất file chi trả/XML thuế; Super Admin tính lương được khi HR chưa chốt |
-| **[Export]** **Xuất dữ liệu nền** | Xuất Excel chạy nền xong thì báo; nhập/xuất Excel hồ sơ kèm file mẫu; xuất PDF/Excel hợp đồng, phiếu lương, báo cáo theo phòng |
-| **[DevOps]** **Vận hành** | Checklist nhận/nghỉ việc, tài sản cấp phát/thu hồi, KPI, đào tạo, khen thưởng/kỷ luật; thông báo đánh dấu đã đọc; nhắc chấm công, sao lưu CSDL theo lịch |
+| <img src="https://img.icons8.com/ios-filled/20/8b5cf6/shield.png" valign="middle"/> **Phân quyền** | 5 vai trò (Super Admin, HR, Kế toán, Trưởng phòng, Nhân viên), phân quyền chi tiết theo từng chức năng, thiết kế CSDL MySQL |
+| <img src="https://img.icons8.com/ios-filled/20/3b82f6/balance-scale.png" valign="middle"/> **Nghiệp vụ kép** | Tách biệt HR (chốt công, phép, hợp đồng) và Kế toán (tính lương, BHXH, thuế); Kế toán chỉ sửa STK & MST, không xem kỷ luật |
+| <img src="https://img.icons8.com/ios-filled/20/10b981/face-id.png" valign="middle"/> **Chấm công khuôn mặt** | Nhận diện chạy tiến trình nền, chỉ lưu đặc trưng khuôn mặt (không lưu ảnh gốc), kiểm tra người thật, chặn lượt gửi trùng + giới hạn số lần gọi |
+| <img src="https://img.icons8.com/ios-filled/20/f59e0b/database.png" valign="middle"/> **Tối ưu truy vấn** | Index chấm công theo (nhân viên, ngày) & lương theo kỳ; nạp công/phép/tăng ca/hợp đồng một lần khi tính lương — tránh N+1 |
+| <img src="https://img.icons8.com/ios-filled/20/ef4444/lock.png" valign="middle"/> **Khóa đồng thời** | Khóa tính lương theo tháng (người sau phải đợi, không tạo 2 bảng lương); khóa dòng đơn nghỉ khi duyệt (không trừ phép 2 lần) |
+| <img src="https://img.icons8.com/ios-filled/20/8b5cf6/security-shield.png" valign="middle"/> **Bảo mật & audit** | Mã hóa CCCD/MST/BHXH/tài khoản ngân hàng; ghi nhật ký giá trị cũ/mới khi sửa lương hoặc giờ công; Trưởng phòng chỉ xem lương phòng mình |
+| <img src="https://img.icons8.com/ios-filled/20/10b981/money-bag.png" valign="middle"/> **Lương – thuế – BHXH** | Tính lương từ công, phép, lễ, tăng ca, phụ cấp, thưởng, khấu trừ; cấu hình BHXH/BHYT/BHTN & thuế TNCN theo năm; quyết toán mẫu 05/KK, 05/QTT |
+| <img src="https://img.icons8.com/ios-filled/20/3b82f6/calendar.png" valign="middle"/> **Luồng cuối tháng** | 25–28 HR khóa sổ & thông báo; 28–30 Kế toán tính/duyệt nháp; 1–3 tháng sau gửi phiếu lương, xuất file chi trả/XML thuế; Super Admin tính lương được khi HR chưa chốt |
+| <img src="https://img.icons8.com/ios-filled/20/f59e0b/export.png" valign="middle"/> **Xuất dữ liệu nền** | Xuất Excel chạy nền xong thì báo; nhập/xuất Excel hồ sơ kèm file mẫu; xuất PDF/Excel hợp đồng, phiếu lương, báo cáo theo phòng |
+| <img src="https://img.icons8.com/ios-filled/20/6b7280/cloud-network.png" valign="middle"/> **Vận hành** | Checklist nhận/nghỉ việc, tài sản cấp phát/thu hồi, KPI, đào tạo, khen thưởng/kỷ luật; thông báo đánh dấu đã đọc; nhắc chấm công, sao lưu CSDL theo lịch |
 
 <p align="center">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -138,14 +138,14 @@
 
 | | |
 |---|---|
-| **[Booking]** **Giữ ghế & tồn kho** | Giữ ghế 10 phút, tối đa 8 ghế/đơn, 8 phần mỗi món; job quét mỗi phút tự hủy đơn chờ quá 10 phút, trả ghế/bắp nước/lượt mã giảm giá; khách trả muộn không mở lại đơn |
-| **[Payment]** **Thanh toán tách khoản** | Tách tiền ghế, bắp nước, phụ thu (cuối tuần, suất tối), số tiền giảm và tổng phải trả; tích hợp VNPay, MoMo, QR chuyển khoản |
-| **[Ticket]** **Vé của tôi & soát vé** | Thẻ vé 4 vé/trang, xem QR từng ghế, hủy vé đã trả nếu còn >2 giờ trước giờ chiếu; soát QR phân biệt màu vé hợp lệ/đã dùng/sai suất |
-| **[Timezone]** **Thời gian & ca trực** | Giờ chiếu lưu theo giờ Việt Nam; ca sang ngày mới tự đóng; trạng thái trực chỉ lấy ca mới nhất; doanh thu nhân viên tính theo ngày; không tự nhận bàn giao của chính mình |
-| **[Dashboard]** **Dashboard & báo cáo** | Doanh thu, tỷ lệ lấp đầy ghế, cảnh báo, đơn gần đây, phim bán chạy; lọc 7/14/20/30/60 ngày, năm nay/năm trước hoặc tự chọn; bấm cột xem đơn; xuất Excel theo phim/phòng/khung giờ |
-| **[Business]** **Ràng buộc nghiệp vụ** | Suất sau cách phim trước kết thúc ít nhất 30 phút; suất qua giờ không đặt được; cấu hình giá vé, phụ thu, giờ mở/đóng cửa, ngưỡng cảnh báo bắp nước |
-| **[UX]** **Đồng bộ & UX** | Trang nhân viên/ca trực tự làm mới ~8 giây, lỗi không xóa bảng đang xem; phân trang phim 8, vé 4, quản trị 10, lịch sử ca 6; chế độ sáng/tối; ảnh tải lên máy chủ |
-| **[Auth]** **Xác thực** | JWT, BCrypt, Google OAuth 2.0 (Client Secret chỉ ở server); cùng email vào đúng tài khoản cũ, giữ vai trò, không tạo trùng; phiên giữ 24 giờ sau khi tắt trình duyệt |
+| <img src="https://img.icons8.com/ios-filled/20/8b5cf6/ticket.png" valign="middle"/> **Giữ ghế & tồn kho** | Giữ ghế 10 phút, tối đa 8 ghế/đơn, 8 phần mỗi món; job quét mỗi phút tự hủy đơn chờ quá 10 phút, trả ghế/bắp nước/lượt mã giảm giá; khách trả muộn không mở lại đơn |
+| <img src="https://img.icons8.com/ios-filled/20/3b82f6/credit-card.png" valign="middle"/> **Thanh toán tách khoản** | Tách tiền ghế, bắp nước, phụ thu (cuối tuần, suất tối), số tiền giảm và tổng phải trả; tích hợp VNPay, MoMo, QR chuyển khoản |
+| <img src="https://img.icons8.com/ios-filled/20/10b981/qr-code.png" valign="middle"/> **Vé của tôi & soát vé** | Thẻ vé 4 vé/trang, xem QR từng ghế, hủy vé đã trả nếu còn >2 giờ trước giờ chiếu; soát QR phân biệt màu vé hợp lệ/đã dùng/sai suất |
+| <img src="https://img.icons8.com/ios-filled/20/f59e0b/clock.png" valign="middle"/> **Thời gian & ca trực** | Giờ chiếu lưu theo giờ Việt Nam; ca sang ngày mới tự đóng; trạng thái trực chỉ lấy ca mới nhất; doanh thu nhân viên tính theo ngày; không tự nhận bàn giao của chính mình |
+| <img src="https://img.icons8.com/ios-filled/20/ef4444/combo-chart.png" valign="middle"/> **Dashboard & báo cáo** | Doanh thu, tỷ lệ lấp đầy ghế, cảnh báo, đơn gần đây, phim bán chạy; lọc 7/14/20/30/60 ngày, năm nay/năm trước hoặc tự chọn; bấm cột xem đơn; xuất Excel theo phim/phòng/khung giờ |
+| <img src="https://img.icons8.com/ios-filled/20/8b5cf6/process.png" valign="middle"/> **Ràng buộc nghiệp vụ** | Suất sau cách phim trước kết thúc ít nhất 30 phút; suất qua giờ không đặt được; cấu hình giá vé, phụ thu, giờ mở/đóng cửa, ngưỡng cảnh báo bắp nước |
+| <img src="https://img.icons8.com/ios-filled/20/3b82f6/sync.png" valign="middle"/> **Đồng bộ & UX** | Trang nhân viên/ca trực tự làm mới ~8 giây, lỗi không xóa bảng đang xem; phân trang phim 8, vé 4, quản trị 10, lịch sử ca 6; chế độ sáng/tối; ảnh tải lên máy chủ |
+| <img src="https://img.icons8.com/ios-filled/20/10b981/lock.png" valign="middle"/> **Xác thực** | JWT, BCrypt, Google OAuth 2.0 (Client Secret chỉ ở server); cùng email vào đúng tài khoản cũ, giữ vai trò, không tạo trùng; phiên giữ 24 giờ sau khi tắt trình duyệt |
 
 <p align="center">
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/.NET_6-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" /> <img src="https://img.shields.io/badge/Vue.js_3-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
