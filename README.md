@@ -93,13 +93,6 @@ Hồ sơ, hợp đồng, chấm công, nghỉ phép, tính lương, 5 vai trò. 
 - **Kiến trúc:** Clean Architecture 4 tầng (Domain, Application, Infrastructure, API)
 - **Triển khai:** Vercel, Docker trên Render, SQL Server cloud, có CORS, biến môi trường và health check
 
-```mermaid
-flowchart LR
-    A["Vue 3<br>Vercel"] --> B["ASP.NET Core 6 API<br>Docker · Render"]
-    B --> C[("SQL Server<br>Cloud")]
-    B --> D["VNPay · MoMo<br>Google OAuth"]
-```
-
 </details>
 
 <details>
