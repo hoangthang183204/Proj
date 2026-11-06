@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2A3B,100:8A3B63&height=170&section=header&text=Hoàng%20Quang%20Thắng&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Fresher%20Backend%20Developer&descSize=18&descAlignY=60" alt="Hoàng Quang Thắng - Fresher Backend Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2A3B,100:8A3B63&height=190&section=header&text=Hoàng%20Quang%20Thắng&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Fresher%20Backend%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Hoàng Quang Thắng - Fresher Backend Developer" />
 
-**Xây dựng API · Thiết kế cơ sở dữ liệu · Triển khai hệ thống thực tế**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=8A3B63&center=true&vCenter=true&width=640&height=40&lines=Xây+dựng+API+·+Thiết+kế+cơ+sở+dữ+liệu;Node.js+·+ASP.NET+Core+·+Laravel;Triển+khai+hệ+thống+thực+tế" alt="Xây dựng API, thiết kế cơ sở dữ liệu, triển khai hệ thống thực tế" />
 
-<a href="#-dự-án"><img src="https://img.shields.io/badge/Xem_dự_án-8A3B63?style=for-the-badge" alt="Xem dự án" /></a>
+<br>
+
+<a href="#-dự-án"><img src="https://img.shields.io/badge/Xem_dự_án-8A3B63?style=for-the-badge&logo=rocket&logoColor=white" alt="Xem dự án" /></a>
 <a href="mailto:thanghoang182004@gmail.com"><img src="https://img.shields.io/badge/Email-3E2A3B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/hoangthang183204?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
@@ -18,7 +20,7 @@ Mình là **Thắng**, vừa tốt nghiệp **Lập trình web tại Cao đẳng
 
 Mình thích những bài toán backend cần dữ liệu chính xác: giữ ghế khi nhiều người cùng đặt, tính lương không bị trùng, cập nhật trạng thái theo thời gian thực. Cả ba dự án dưới đây đều có mã nguồn, hai trong số đó có demo để dùng thử ngay.
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2A3B,100:8A3B63&height=3" width="100%" alt="" />
 
 ## 🚀 Dự án
 
@@ -26,43 +28,74 @@ Mình thích những bài toán backend cần dữ liệu chính xác: giữ gh�
 <tr>
 <td width="33%" valign="top">
 
+<div align="center">
+
 ### 🎬 Cinema Booking
 *Đặt vé và quản lý rạp chiếu phim*
 
+<img src="https://img.shields.io/badge/●_Live-2ea44f?style=flat-square" alt="Live" />
+<img src="https://img.shields.io/badge/Dự_án_cá_nhân-8A3B63?style=flat-square" alt="Dự án cá nhân" />
+
+</div>
+
 Khách đặt vé, nhân viên bán vé tại quầy, quản trị viên theo dõi doanh thu.
+
+<div align="center">
 
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core_6-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
-<a href="https://cinema-booking-vue.vercel.app/"><img src="https://img.shields.io/badge/Dùng_thử_ngay-2ea44f?style=for-the-badge" alt="Demo Cinema Booking" /></a>
+<a href="https://cinema-booking-vue.vercel.app/"><img src="https://img.shields.io/badge/Dùng_thử_ngay-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo Cinema Booking" /></a>
 
 [Frontend](https://github.com/hoangthang183204/CinemaBooking-Vue) · [Backend](https://github.com/hoangthang183204/CinemaBooking-API)
+
+</div>
 
 </td>
 <td width="33%" valign="top">
 
+<div align="center">
+
 ### ✅ TaskFlow
 *Quản lý công việc nhóm*
 
-Phân công việc, theo dõi tiến độ, trạng thái cập nhật theo thời gian thực. Dự án thực tập.
+<img src="https://img.shields.io/badge/●_Live-2ea44f?style=flat-square" alt="Live" />
+<img src="https://img.shields.io/badge/Dự_án_thực_tập-8A3B63?style=flat-square" alt="Dự án thực tập" />
+
+</div>
+
+Phân công việc, theo dõi tiến độ, trạng thái cập nhật theo thời gian thực.
+
+<div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-<a href="https://taskflow-frontend-virid.vercel.app/"><img src="https://img.shields.io/badge/Dùng_thử_ngay-2ea44f?style=for-the-badge" alt="Demo TaskFlow" /></a>
+<a href="https://taskflow-frontend-virid.vercel.app/"><img src="https://img.shields.io/badge/Dùng_thử_ngay-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo TaskFlow" /></a>
 
 [Frontend](https://github.com/hoangthang183204/taskflow-frontend) · [Backend](https://github.com/hoangthang183204/taskflow-backend)
+
+</div>
 
 </td>
 <td width="33%" valign="top">
 
+<div align="center">
+
 ### 👥 HR Flow
 *Quản lý nhân sự*
 
-Hồ sơ, hợp đồng, chấm công, nghỉ phép, tính lương, 5 vai trò. Đồ án tốt nghiệp.
+<img src="https://img.shields.io/badge/●_Mã_nguồn-8A8A8A?style=flat-square" alt="Mã nguồn" />
+<img src="https://img.shields.io/badge/Đồ_án_tốt_nghiệp-8A3B63?style=flat-square" alt="Đồ án tốt nghiệp" />
+
+</div>
+
+Hồ sơ, hợp đồng, chấm công, nghỉ phép, tính lương, 5 vai trò.
+
+<div align="center">
 
 ![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -72,11 +105,11 @@ Hồ sơ, hợp đồng, chấm công, nghỉ phép, tính lương, 5 vai trò. 
 
 [Mã nguồn](https://github.com/hoangthang183204/doantotnghiep)
 
+</div>
+
 </td>
 </tr>
 </table>
-
-<br>
 
 ### Mỗi dự án có gì?
 
@@ -95,7 +128,7 @@ Hồ sơ, hợp đồng, chấm công, nghỉ phép, tính lương, 5 vai trò. 
 
 </details>
 
-<details>
+<details open>
 <summary><b>✅ TaskFlow</b>: quản lý công việc theo thời gian thực</summary>
 
 <br>
@@ -109,7 +142,7 @@ Hồ sơ, hợp đồng, chấm công, nghỉ phép, tính lương, 5 vai trò. 
 
 </details>
 
-<details>
+<details open>
 <summary><b>👥 HR Flow</b>: nhân sự, chấm công và tính lương</summary>
 
 <br>
@@ -122,28 +155,30 @@ Hồ sơ, hợp đồng, chấm công, nghỉ phép, tính lương, 5 vai trò. 
 
 </details>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2A3B,100:8A3B63&height=3" width="100%" alt="" />
 
 ## 🛠️ Công nghệ
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,php,laravel,mongodb,mysql,redis,docker,nextjs,vue,tailwind,git,postman,vercel&perline=7" alt="Công nghệ sử dụng" />
+
+<sub>Node.js · ASP.NET Core · PHP · Laravel · MongoDB · MySQL · SQL Server · Redis · Docker · Next.js · Vue · Tailwind CSS · Git · Postman · Vercel</sub>
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2A3B,100:8A3B63&height=3" width="100%" alt="" />
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=hoangthang183204&show_icons=true&hide_border=true&bg_color=3E2A3B&title_color=E7B5CC&icon_color=E7B5CC&text_color=FFFFFF&count_private=true" alt="Thống kê GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangthang183204&layout=compact&hide_border=true&bg_color=3E2A3B&title_color=E7B5CC&text_color=FFFFFF" alt="Ngôn ngữ sử dụng nhiều nhất" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2A3B,100:8A3B63&height=3" width="100%" alt="" />
 
 ## 📚 Đang học thêm
 
@@ -162,6 +197,6 @@ Hồ sơ, hợp đồng, chấm công, nghỉ phép, tính lương, 5 vai trò. 
 
 **thanghoang182004@gmail.com** · Hà Nội, Việt Nam
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2A3B,100:8A3B63&height=90&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2A3B,100:8A3B63&height=100&section=footer" alt="" />
 
 </div>
