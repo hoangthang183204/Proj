@@ -161,9 +161,9 @@ Hồ sơ, hợp đồng, chấm công, nghỉ phép, tính lương, 5 vai trò.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet,php,laravel,mongodb,mysql,redis,docker,nextjs,vue,tailwind,git,postman,vercel&perline=7" alt="Công nghệ sử dụng" />
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,php,laravel,mongodb,mysql,docker,nextjs,vue,git,postman,vercel&perline=6" alt="Công nghệ sử dụng" />
 
-<sub>Node.js · ASP.NET Core · PHP · Laravel · MongoDB · MySQL · SQL Server · Redis · Docker · Next.js · Vue · Tailwind CSS · Git · Postman · Vercel</sub>
+<sub>Node.js · ASP.NET Core · PHP · Laravel · MongoDB · MySQL · SQL Server · Docker · Next.js · Vue · Git · Postman · Vercel</sub>
 
 </div>
 
