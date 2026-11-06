@@ -1,322 +1,174 @@
- <div align="center">
+<div align="center">
 
-# 👋 HOÀNG QUANG THẮNG
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2A3B,100:8A3B63&height=170&section=header&text=Hoàng%20Quang%20Thắng&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Fresher%20Backend%20Developer&descSize=18&descAlignY=60" alt="Hoàng Quang Thắng - Fresher Backend Developer" />
 
-### BACKEND DEVELOPER
+**Xây dựng API · Thiết kế cơ sở dữ liệu · Triển khai hệ thống thực tế**
 
-**Xây dựng hệ thống Backend · Thiết kế API · Tối ưu cơ sở dữ liệu**
-
-<p>
-<a href="mailto:thanghoang182004@gmail.com">📧 Email</a> ·
-<a href="https://github.com/hoangthang183204">💻 GitHub</a> ·
-📍 Hà Nội, Việt Nam
-</p>
-
-`NODE.JS` `PHP / LARAVEL` `C# / .NET`
-
-*Không ngừng học hỏi, xây dựng và cải thiện những sản phẩm phần mềm hữu ích.*
+<a href="#-dự-án"><img src="https://img.shields.io/badge/Xem_dự_án-8A3B63?style=for-the-badge" alt="Xem dự án" /></a>
+<a href="mailto:thanghoang182004@gmail.com"><img src="https://img.shields.io/badge/Email-3E2A3B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/hoangthang183204?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
 </div>
 
----
+<br>
 
-## 👨‍💻 GIỚI THIỆU
+## 👋 Xin chào
 
-Tôi là **Hoàng Quang Thắng**, tốt nghiệp chuyên ngành **Lập trình web tại Cao đẳng FPT Polytechnic**, với GPA **3.63/4.0**.
+Mình là **Thắng**, vừa tốt nghiệp **Lập trình web tại Cao đẳng FPT Polytechnic** (GPA 3.63/4.0). Mình từng thực tập tại **JITS Innovation Labs** và làm **Trưởng nhóm** đồ án tốt nghiệp.
 
-Tôi đã có kinh nghiệm thực tập tại **JITS Innovation Labs** và đảm nhận vai trò **Trưởng nhóm** trong đồ án tốt nghiệp.
+Mình thích những bài toán backend cần dữ liệu chính xác: giữ ghế khi nhiều người cùng đặt, tính lương không bị trùng, cập nhật trạng thái theo thời gian thực. Cả ba dự án dưới đây đều có mã nguồn, hai trong số đó có demo để dùng thử ngay.
 
-Tôi định hướng phát triển chuyên sâu về Backend Development, tập trung vào xây dựng RESTful API, thiết kế cơ sở dữ liệu, bảo mật và tối ưu hiệu năng ứng dụng web.
+<br>
 
-Tôi quan tâm đến cách xây dựng một hệ thống hoàn chỉnh, từ xử lý nghiệp vụ, quản lý dữ liệu đến triển khai và vận hành ứng dụng.
+## 🚀 Dự án
 
-### Thông tin cá nhân
+<table>
+<tr>
+<td width="33%" valign="top">
 
-| Thông tin | Chi tiết |
-|---|---|
-| Họ và tên | Hoàng Quang Thắng |
-| Vị trí ứng tuyển | Fresher / Junior Backend Developer |
-| Học vấn | Lập trình web – Cao đẳng FPT Polytechnic |
-| GPA | 3.63/4.0 |
-| Kinh nghiệm | Thực tập tại JITS Innovation Labs |
-| Vai trò dự án | Backend Developer / Team Leader |
-| Địa điểm | Hà Nội, Việt Nam |
-| Email | thanghoang182004@gmail.com |
+### 🎬 Cinema Booking
+*Đặt vé và quản lý rạp chiếu phim*
 
----
+Khách đặt vé, nhân viên bán vé tại quầy, quản trị viên theo dõi doanh thu.
 
-## 🛠️ KỸ NĂNG CÔNG NGHỆ
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core_6-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
-### 1. Backend Development
+<a href="https://cinema-booking-vue.vercel.app/"><img src="https://img.shields.io/badge/Dùng_thử_ngay-2ea44f?style=for-the-badge" alt="Demo Cinema Booking" /></a>
 
-`Node.js` `Sails.js` `PHP` `Laravel` `C#` `.NET` `ASP.NET Core`
+[Frontend](https://github.com/hoangthang183204/CinemaBooking-Vue) · [Backend](https://github.com/hoangthang183204/CinemaBooking-API)
 
-- Lập trình hướng đối tượng (OOP).
-- Xây dựng và phát triển RESTful API.
-- Xử lý nghiệp vụ phía Backend.
-- Xác thực và phân quyền người dùng với JWT.
-- Tổ chức mã nguồn và phân chia các tầng kiến trúc.
-- Tích hợp các dịch vụ bên thứ ba.
+</td>
+<td width="33%" valign="top">
 
-### 2. Database & Caching
+### ✅ TaskFlow
+*Quản lý công việc nhóm*
 
-`MySQL` `MongoDB` `Redis` `SQL Server` `Entity Framework Core`
+Phân công việc, theo dõi tiến độ, trạng thái cập nhật theo thời gian thực. Dự án thực tập.
 
-- Thiết kế cơ sở dữ liệu và quan hệ giữa các bảng.
-- Sử dụng Index để tối ưu truy vấn.
-- Phân trang và xử lý dữ liệu.
-- Tìm hiểu và áp dụng Redis Cache.
-- Phân tích và tối ưu truy vấn N+1.
-- Làm việc với ORM và truy vấn dữ liệu.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-### 3. Frontend Development
+<a href="https://taskflow-frontend-virid.vercel.app/"><img src="https://img.shields.io/badge/Dùng_thử_ngay-2ea44f?style=for-the-badge" alt="Demo TaskFlow" /></a>
 
-`Next.js` `React` `Vue.js` `JavaScript` `HTML5` `CSS3` `Tailwind CSS`
+[Frontend](https://github.com/hoangthang183204/taskflow-frontend) · [Backend](https://github.com/hoangthang183204/taskflow-backend)
 
-- Xây dựng giao diện ứng dụng web.
-- Tích hợp Frontend với RESTful API.
-- Quản lý trạng thái và xử lý dữ liệu giao diện.
-- Phát triển ứng dụng SPA.
+</td>
+<td width="33%" valign="top">
 
-### 4. Công cụ & Triển khai
+### 👥 HR Flow
+*Quản lý nhân sự*
 
-`Git` `GitHub` `Docker` `Postman` `VS Code` `Vercel` `Render`
+Hồ sơ, hợp đồng, chấm công, nghỉ phép, tính lương, 5 vai trò. Đồ án tốt nghiệp.
 
-- Quản lý mã nguồn bằng Git và GitHub.
-- Kiểm thử API với Postman.
-- Sử dụng Docker trong môi trường phát triển và triển khai.
-- Làm việc với quy trình CI/CD.
-- Cấu hình môi trường và triển khai ứng dụng web.
+![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
+<img src="https://img.shields.io/badge/Demo-Đang_cập_nhật-lightgrey?style=for-the-badge" alt="Demo đang cập nhật" />
 
-## 🚀 DỰ ÁN NỔI BẬT
+[Mã nguồn](https://github.com/hoangthang183204/doantotnghiep)
 
-Các dự án dưới đây thể hiện quá trình học tập, thực hành và phát triển kỹ năng Backend, từ xây dựng API đến thiết kế kiến trúc và triển khai ứng dụng.
+</td>
+</tr>
+</table>
 
----
+<br>
 
-### 01. TaskFlow – Hệ thống quản lý công việc nhóm
+### Mỗi dự án có gì?
 
-<kbd>DỰ ÁN THỰC TẬP</kbd> <kbd>JITS INNOVATION LABS</kbd>
+<details open>
+<summary><b>🎬 Cinema Booking</b>: hệ thống đặt vé chạy thật</summary>
 
-<sub>Thời gian: 04/2026 – 07/2026</sub>
+<br>
 
-Hệ thống quản lý công việc nhóm, hỗ trợ người dùng tạo và quản lý công việc, theo dõi tiến độ, phân công nhiệm vụ và cập nhật trạng thái theo thời gian thực.
+- **Giữ ghế có thời hạn**, tự hủy đơn quá hạn thanh toán và trả lại ghế, bắp nước, lượt mã giảm giá
+- **Thanh toán:** VNPay (Return URL và IPN), MoMo (Sandbox), QR chuyển khoản, tại quầy
+- **Đăng nhập:** JWT và Google OAuth 2.0, phân quyền Khách hàng, Nhân viên, Quản trị viên
+- **Nhân viên:** POS bán vé, quét QR soát vé, tồn kho bắp nước, mở ca và bàn giao ca
+- **Quản trị:** dashboard doanh thu và tỷ lệ lấp đầy ghế, quản lý phim, suất chiếu, khuyến mãi, xuất báo cáo Excel
+- **Kiến trúc:** Clean Architecture 4 tầng (Domain, Application, Infrastructure, API)
+- **Triển khai:** Vercel, Docker trên Render, SQL Server cloud, có CORS, biến môi trường và health check
+
+```mermaid
+flowchart LR
+    A["Vue 3<br>Vercel"] --> B["ASP.NET Core 6 API<br>Docker · Render"]
+    B --> C[("SQL Server<br>Cloud")]
+    B --> D["VNPay · MoMo<br>Google OAuth"]
+```
+
+</details>
+
+<details>
+<summary><b>✅ TaskFlow</b>: quản lý công việc theo thời gian thực</summary>
+
+<br>
+
+- **API:** RESTful bằng Node.js và Sails.js, xác thực JWT và phân quyền
+- **Dữ liệu:** MongoDB với Index, Pagination, xử lý truy vấn N+1
+- **Hiệu năng:** Redis Cache và Rate Limiting
+- **Thời gian thực:** WebSocket cập nhật trạng thái công việc
+- **Giao diện:** Next.js, Optimistic UI để phản hồi nhanh
+- **Triển khai:** Docker, CI/CD
+
+</details>
+
+<details>
+<summary><b>👥 HR Flow</b>: nhân sự, chấm công và tính lương</summary>
+
+<br>
+
+- **Chấm công bằng nhận diện khuôn mặt** chạy nền, chỉ lưu đặc trưng khuôn mặt, không lưu ảnh gốc
+- **Tính lương an toàn:** khóa kỳ lương theo tháng, khóa dòng đơn nghỉ khi duyệt, tránh tạo trùng bảng lương hoặc trừ phép hai lần
+- **Bảo mật:** mã hóa CCCD, mã số thuế, số BHXH, tài khoản ngân hàng; ghi nhật ký giá trị cũ và mới khi sửa lương, giờ công
+- **Phân quyền 5 vai trò:** Super Admin, HR, Kế toán, Trưởng phòng, Nhân viên
+- **Vai trò của mình:** Trưởng nhóm, chia việc và theo dõi tiến độ, tham gia thiết kế cơ sở dữ liệu MySQL
+
+</details>
+
+<br>
+
+## 🛠️ Công nghệ
 
 <div align="center">
 
-**[🌐 TRẢI NGHIỆM DEMO](https://taskflow-frontend-virid.vercel.app/)**
-
-[💻 Frontend Repository](https://github.com/hoangthang183204/taskflow-frontend) · [⚙️ Backend Repository](https://github.com/hoangthang183204/taskflow-backend)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
-#### Chức năng và giải pháp kỹ thuật
+<br>
 
-| Hạng mục | Công nghệ / Giải pháp |
+## 📚 Đang học thêm
+
+| Lĩnh vực | Nội dung |
 |---|---|
-| Backend | Node.js, Sails.js, RESTful API |
-| Xác thực | JWT Authentication, Authorization |
-| Cơ sở dữ liệu | MongoDB, Index, Pagination |
-| Tối ưu truy vấn | Xử lý vấn đề N+1 |
-| Hiệu năng | Redis Cache, Rate Limiting |
-| Thời gian thực | WebSocket |
-| Frontend | Next.js, Optimistic UI |
-| Triển khai | Docker, CI/CD |
+| **Cấu trúc dữ liệu và giải thuật** | Hash Map, Linked List, Tree, Graph, Dynamic Programming |
+| **System Design** | Scalability, Load Balancing, Caching, API Gateway |
+| **Database** | Indexing, Transactions, Query Optimization |
+| **DevOps** | Docker, CI/CD, Nginx |
 
-#### Điểm nổi bật về kỹ thuật
-
-- Xây dựng RESTful API và cơ chế xác thực, phân quyền người dùng.
-- Tối ưu truy vấn MongoDB, xử lý vấn đề N+1.
-- Áp dụng Redis Cache để cải thiện hiệu quả truy xuất dữ liệu.
-- Sử dụng WebSocket để cập nhật trạng thái công việc theo thời gian thực.
-- Áp dụng Optimistic UI để cải thiện trải nghiệm người dùng.
-- Làm việc với Docker và quy trình CI/CD.
-
-**Công nghệ:** `Node.js` `Sails.js` `MongoDB` `Redis` `Next.js` `Docker`
-
----
-
-### 02. Cinema Booking System – Hệ thống đặt vé và quản lý rạp chiếu phim
-
-<kbd>DỰ ÁN FULL-STACK</kbd> <kbd>ASP.NET CORE 6</kbd> <kbd>VUE.JS 3</kbd>
-
-Hệ thống đặt vé xem phim trực tuyến kết hợp quản lý vận hành rạp chiếu phim, phục vụ ba nhóm người dùng: Khách hàng, Nhân viên và Quản trị viên.
-
-Hệ thống hỗ trợ toàn bộ quy trình từ tra cứu phim, lựa chọn suất chiếu, giữ ghế, đặt vé, thanh toán đến quản lý hoạt động kinh doanh tại rạp.
+<br>
 
 <div align="center">
 
-**[🌐 TRẢI NGHIỆM LIVE DEMO](https://cinema-booking-vue.vercel.app/)**
+### 📫 Liên hệ
 
-[💻 Frontend Repository](https://github.com/hoangthang183204/CinemaBooking-Vue) · [⚙️ Backend Repository](https://github.com/hoangthang183204/CinemaBooking-API)
+**thanghoang182004@gmail.com** · Hà Nội, Việt Nam
 
-</div>
-
-#### 1. Kiến trúc hệ thống
-
-- **Backend:** ASP.NET Core 6 Web API, áp dụng Clean Architecture với 4 tầng:
-  - `Domain`: Thực thể và quy tắc nghiệp vụ cốt lõi.
-  - `Application`: Xử lý nghiệp vụ và điều phối các use case.
-  - `Infrastructure`: EF Core, SQL Server và tích hợp dịch vụ bên ngoài.
-  - `API`: Controllers, xác thực và tiếp nhận HTTP requests.
-- **Frontend:** Vue.js 3, Vite, Vue Router theo mô hình SPA.
-- **ORM:** Entity Framework Core.
-- **Database:** SQL Server.
-- **Giao diện:** Hỗ trợ Light Mode và Dark Mode.
-
-#### 2. Chức năng dành cho khách hàng
-
-- Tra cứu danh sách phim, xem chi tiết phim và lịch chiếu.
-- Lựa chọn suất chiếu và sơ đồ ghế trực quan.
-- Cập nhật trạng thái ghế theo thời gian thực.
-- Giữ ghế có thời hạn trong quá trình đặt vé.
-- Giới hạn số lượng ghế được chọn trong mỗi lượt đặt.
-- Áp dụng mã giảm giá, đặt bắp nước và tính phụ thu.
-- Thanh toán qua VNPay, QR chuyển khoản hoặc tại quầy.
-- Quản lý vé đã đặt, hỗ trợ hủy vé và xử lý hoàn vé.
-
-#### 3. Chức năng dành cho nhân viên
-
-- POS bán vé trực tiếp tại quầy.
-- Quét QR Code để kiểm tra và xác thực vé.
-- Quản lý tồn kho sản phẩm bắp nước.
-- Quản lý mở ca và bàn giao ca trực.
-- In hóa đơn và hỗ trợ quy trình thanh toán tại quầy.
-
-#### 4. Chức năng quản trị hệ thống
-
-- **Dashboard:** Theo dõi doanh thu và tỷ lệ lấp đầy ghế.
-- **Quản lý phim:** Thêm, sửa, xóa và quản lý thông tin phim.
-- **Quản lý rạp:** Phòng chiếu, suất chiếu và sơ đồ ghế.
-- **Quản lý kinh doanh:** Khuyến mãi, mã giảm giá và sản phẩm bắp nước.
-- **Quản lý nhân sự:** Nhân viên và ca trực.
-- **Báo cáo:** Thống kê doanh thu và xuất báo cáo Excel.
-- **Cấu hình:** Quản lý các thiết lập hệ thống.
-
-#### 5. Thanh toán và tích hợp bên thứ ba
-
-- **VNPay:** Tích hợp quy trình thanh toán, xử lý Return URL và IPN.
-- **QR chuyển khoản:** Hỗ trợ thanh toán bằng mã QR.
-- **Thanh toán tại quầy:** Hỗ trợ giao dịch trực tiếp qua POS.
-- **Google OAuth 2.0:** Tích hợp đăng nhập Google, cấu hình OAuth Consent Screen, Authorized Origins và Client ID cho môi trường Production.
-
-#### 6. Triển khai và vận hành
-
-| Thành phần | Công nghệ / Nền tảng |
-|---|---|
-| Frontend | Vue.js 3, Vite |
-| Frontend Hosting | Vercel |
-| Backend | ASP.NET Core 6 Web API |
-| Backend Deployment | Docker, Render |
-| Database | SQL Server Cloud |
-| ORM | Entity Framework Core |
-| Authentication | JWT, Google OAuth 2.0 |
-| Production Configuration | CORS, Environment Variables, Health Check |
-
-**Điểm nổi bật về kỹ thuật**
-
-- Thiết kế Backend theo Clean Architecture 4 tầng, tách biệt nghiệp vụ và hạ tầng.
-- Xây dựng quy trình giữ ghế có thời hạn và quản lý trạng thái ghế.
-- Tích hợp nhiều phương thức thanh toán và xử lý các luồng xác nhận giao dịch.
-- Phát triển các module vận hành thực tế cho nhân viên và quản trị viên.
-- Triển khai ứng dụng với Docker và cấu hình môi trường Production.
-- Tích hợp Google OAuth 2.0 cho chức năng đăng nhập.
-
-**Công nghệ:** `C#` `ASP.NET Core 6` `Clean Architecture` `Entity Framework Core` `SQL Server` `Vue.js 3` `Vite` `Vue Router` `JWT` `Google OAuth 2.0` `VNPay` `Docker` `Vercel` `Render`
-
----
-
-### 03. HR Flow – Hệ thống quản lý nhân sự
-
-<kbd>ĐỒ ÁN TỐT NGHIỆP</kbd> <kbd>TRƯỞNG NHÓM</kbd>
-
-<sub>Thời gian: 05/2026 – 08/2026</sub>
-
-Website quản lý nhân sự hỗ trợ doanh nghiệp quản lý hồ sơ nhân viên, hợp đồng, chấm công, nghỉ phép, tăng ca, tính lương và báo cáo.
-
-<div align="center">
-
-[💻 **XEM MÃ NGUỒN TRÊN GITHUB**](https://github.com/hoangthang183204/doantotnghiep)
-
-</div>
-
-#### Chức năng và giải pháp kỹ thuật
-
-| Hạng mục | Công nghệ / Giải pháp |
-|---|---|
-| Backend | PHP, Laravel 12 |
-| Frontend | JavaScript, Tailwind CSS |
-| Database | MySQL |
-| Phân quyền | 5 vai trò người dùng |
-| Quản lý nhân sự | Hồ sơ, hợp đồng, nghỉ phép, tăng ca |
-| Chấm công | Quản lý dữ liệu chấm công |
-| Tính lương | Lương, phụ cấp, thưởng, khấu trừ |
-| Bảo mật | Phân quyền, Audit Logs |
-
-#### Năm vai trò trong hệ thống
-
-1. Super Admin
-2. HR
-3. Kế toán
-4. Trưởng phòng
-5. Nhân viên
-
-#### Vai trò và đóng góp
-
-- Đảm nhận vai trò Trưởng nhóm, phối hợp phân chia công việc và quản lý tiến độ.
-- Tham gia thiết kế cơ sở dữ liệu MySQL.
-- Phát triển các chức năng quản lý nhân sự và nghiệp vụ liên quan.
-- Xây dựng cơ chế phân quyền theo vai trò.
-- Tìm hiểu tối ưu truy vấn và ghi nhật ký thay đổi dữ liệu quan trọng.
-
-**Công nghệ:** `PHP` `Laravel 12` `MySQL` `JavaScript` `Tailwind CSS` `Git`
-
----
-
-## 📚 ĐỊNH HƯỚNG PHÁT TRIỂN
-
-Tôi đang tập trung nâng cao kiến thức và kỹ năng trong các lĩnh vực:
-
-| Lĩnh vực | Nội dung tìm hiểu |
-|---|---|
-| Cấu trúc dữ liệu & giải thuật | Array, Hash Map, Linked List, Tree, Graph, Dynamic Programming |
-| System Design | Scalability, Load Balancing, Caching, API Gateway |
-| Database | Indexing, Transactions, Query Optimization |
-| Backend Performance | Redis, Caching, Rate Limiting |
-| DevOps | Docker, CI/CD, Nginx |
-
----
-
-## 📊 GITHUB
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Hoang_Quang_Thang-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoangthang183204)
-
-[**Xem tất cả repositories →**](https://github.com/hoangthang183204?tab=repositories)
-
-</div>
-
----
-
-## 📫 LIÊN HỆ
-
-<div align="center">
-
-Tôi luôn sẵn sàng trao đổi kiến thức, học hỏi kinh nghiệm và tham gia phát triển các sản phẩm phần mềm hữu ích.
-
-### HOÀNG QUANG THẮNG
-
-📧 **Email:** [thanghoang182004@gmail.com](mailto:thanghoang182004@gmail.com)
-
-💻 **GitHub:** [github.com/hoangthang183204](https://github.com/hoangthang183204)
-
-📍 **Địa điểm:** Hà Nội, Việt Nam
-
-<br/>
-
-*Không ngừng học hỏi – Không ngừng cải thiện – Không ngừng phát triển.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2A3B,100:8A3B63&height=90&section=footer" alt="" />
 
 </div>
