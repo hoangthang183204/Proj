@@ -169,16 +169,7 @@ Hồ sơ, hợp đồng, chấm công, nghỉ phép, tính lương, 5 vai trò.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2A3B,100:8A3B63&height=3" width="100%" alt="" />
 
-## 📚 Đang học thêm
 
-| Lĩnh vực | Nội dung |
-|---|---|
-| **Cấu trúc dữ liệu và giải thuật** | Hash Map, Linked List, Tree, Graph, Dynamic Programming |
-| **System Design** | Scalability, Load Balancing, Caching, API Gateway |
-| **Database** | Indexing, Transactions, Query Optimization |
-| **DevOps** | Docker, CI/CD, Nginx |
-
-<br>
 
 <div align="center">
 
