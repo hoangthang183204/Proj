@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2A3B,100:8A3B63&height=190&section=header&text=Hoàng%20Quang%20Thắng&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Fresher%20Backend%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Hoàng Quang Thắng - Fresher Backend Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2A3B,100:8A3B63&height=190&section=header&text=Ho%C3%A0ng%20Quang%20Th%E1%BA%AFng&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Fresher%20Backend%20Developer&descSize=18&descAlignY=58&animation=fadeIn" alt="Hoàng Quang Thắng - Fresher Backend Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=8A3B63&center=true&vCenter=true&width=640&height=40&lines=Xây+dựng+API+·+Thiết+kế+cơ+sở+dữ+liệu;Node.js+·+ASP.NET+Core+·+Laravel;Triển+khai+hệ+thống+thực+tế" alt="Xây dựng API, thiết kế cơ sở dữ liệu, triển khai hệ thống thực tế" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3200&pause=900&color=8A3B63&center=true&vCenter=true&width=640&height=40&lines=X%C3%A2y+d%E1%BB%B1ng+API+%C2%B7+Thi%E1%BA%BFt+k%E1%BA%BF+c%C6%A1+s%E1%BB%9F+d%E1%BB%AF+li%E1%BB%87u;Node.js+%C2%B7+ASP.NET+Core+%C2%B7+Laravel;Tri%E1%BB%83n+khai+h%E1%BB%87+th%E1%BB%91ng+th%E1%BB%B1c+t%E1%BA%BF" alt="Xây dựng API, thiết kế cơ sở dữ liệu, triển khai hệ thống thực tế" />
 
 <br>
 
-<a href="#-dự-án"><img src="https://img.shields.io/badge/Xem_dự_án-8A3B63?style=for-the-badge&logo=rocket&logoColor=white" alt="Xem dự án" /></a>
+<a href="#-dự-án"><img src="https://img.shields.io/badge/Xem_d%E1%BB%B1_%C3%A1n-8A3B63?style=for-the-badge&logo=rocket&logoColor=white" alt="Xem dự án" /></a>
 <a href="mailto:thanghoang182004@gmail.com"><img src="https://img.shields.io/badge/Email-3E2A3B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/hoangthang183204?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 
@@ -33,8 +33,8 @@ Mình thích những bài toán backend cần dữ liệu chính xác: giữ gh�
 ### 🎬 Cinema Booking
 *Đặt vé và quản lý rạp chiếu phim*
 
-<img src="https://img.shields.io/badge/●_Live-2ea44f?style=flat-square" alt="Live" />
-<img src="https://img.shields.io/badge/Dự_án_cá_nhân-8A3B63?style=flat-square" alt="Dự án cá nhân" />
+<img src="https://img.shields.io/badge/%E2%97%8F_Live-2ea44f?style=flat-square" alt="Live" />
+<img src="https://img.shields.io/badge/D%E1%BB%B1_%C3%A1n_c%C3%A1_nh%C3%A2n-8A3B63?style=flat-square" alt="Dự án cá nhân" />
 
 </div>
 
@@ -46,7 +46,7 @@ Khách đặt vé, nhân viên bán vé tại quầy, quản trị viên theo d�
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
-<a href="https://cinema-booking-vue.vercel.app/"><img src="https://img.shields.io/badge/Dùng_thử_ngay-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo Cinema Booking" /></a>
+<a href="https://cinema-booking-vue.vercel.app/"><img src="https://img.shields.io/badge/D%C3%B9ng_th%E1%BB%AD_ngay-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo Cinema Booking" /></a>
 
 [Frontend](https://github.com/hoangthang183204/CinemaBooking-Vue) · [Backend](https://github.com/hoangthang183204/CinemaBooking-API)
 
@@ -60,8 +60,8 @@ Khách đặt vé, nhân viên bán vé tại quầy, quản trị viên theo d�
 ### ✅ TaskFlow
 *Quản lý công việc nhóm*
 
-<img src="https://img.shields.io/badge/●_Live-2ea44f?style=flat-square" alt="Live" />
-<img src="https://img.shields.io/badge/Dự_án_thực_tập-8A3B63?style=flat-square" alt="Dự án thực tập" />
+<img src="https://img.shields.io/badge/%E2%97%8F_Live-2ea44f?style=flat-square" alt="Live" />
+<img src="https://img.shields.io/badge/D%E1%BB%B1_%C3%A1n_th%E1%BB%B1c_t%E1%BA%ADp-8A3B63?style=flat-square" alt="Dự án thực tập" />
 
 </div>
 
@@ -74,7 +74,7 @@ Phân công việc, theo dõi tiến độ, trạng thái cập nhật theo th�
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-<a href="https://taskflow-frontend-virid.vercel.app/"><img src="https://img.shields.io/badge/Dùng_thử_ngay-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo TaskFlow" /></a>
+<a href="https://taskflow-frontend-virid.vercel.app/"><img src="https://img.shields.io/badge/D%C3%B9ng_th%E1%BB%AD_ngay-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo TaskFlow" /></a>
 
 [Frontend](https://github.com/hoangthang183204/taskflow-frontend) · [Backend](https://github.com/hoangthang183204/taskflow-backend)
 
@@ -88,8 +88,8 @@ Phân công việc, theo dõi tiến độ, trạng thái cập nhật theo th�
 ### 👥 HR Flow
 *Quản lý nhân sự*
 
-<img src="https://img.shields.io/badge/●_Mã_nguồn-8A8A8A?style=flat-square" alt="Mã nguồn" />
-<img src="https://img.shields.io/badge/Đồ_án_tốt_nghiệp-8A3B63?style=flat-square" alt="Đồ án tốt nghiệp" />
+<img src="https://img.shields.io/badge/%E2%97%8F_M%C3%A3_ngu%E1%BB%93n-8A8A8A?style=flat-square" alt="Mã nguồn" />
+<img src="https://img.shields.io/badge/%C4%90%E1%BB%93_%C3%A1n_t%E1%BB%91t_nghi%E1%BB%87p-8A3B63?style=flat-square" alt="Đồ án tốt nghiệp" />
 
 </div>
 
@@ -101,7 +101,7 @@ Hồ sơ, hợp đồng, chấm công, nghỉ phép, tính lương, 5 vai trò.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-<img src="https://img.shields.io/badge/Demo-Đang_cập_nhật-lightgrey?style=for-the-badge" alt="Demo đang cập nhật" />
+<img src="https://img.shields.io/badge/Demo-%C4%90ang_c%E1%BA%ADp_nh%E1%BA%ADt-lightgrey?style=for-the-badge" alt="Demo đang cập nhật" />
 
 [Mã nguồn](https://github.com/hoangthang183204/doantotnghiep)
 
@@ -164,17 +164,6 @@ Hồ sơ, hợp đồng, chấm công, nghỉ phép, tính lương, 5 vai trò.
 <img src="https://skillicons.dev/icons?i=nodejs,dotnet,php,laravel,mongodb,mysql,redis,docker,nextjs,vue,tailwind,git,postman,vercel&perline=7" alt="Công nghệ sử dụng" />
 
 <sub>Node.js · ASP.NET Core · PHP · Laravel · MongoDB · MySQL · SQL Server · Redis · Docker · Next.js · Vue · Tailwind CSS · Git · Postman · Vercel</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3E2A3B,100:8A3B63&height=3" width="100%" alt="" />
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hoangthang183204&show_icons=true&hide_border=true&bg_color=3E2A3B&title_color=E7B5CC&icon_color=E7B5CC&text_color=FFFFFF&count_private=true" alt="Thống kê GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangthang183204&layout=compact&hide_border=true&bg_color=3E2A3B&title_color=E7B5CC&text_color=FFFFFF" alt="Ngôn ngữ sử dụng nhiều nhất" />
 
 </div>
 
