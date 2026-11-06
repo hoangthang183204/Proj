@@ -1,276 +1,286 @@
  <div align="center">
 
-# ✦ HOÀNG QUANG THẮNG ✦
+# HOÀNG QUANG THẮNG
 
 ### BACKEND DEVELOPER
 
-**Building Scalable · Secure · Efficient Web Applications**
+**Xây dựng API · Thiết kế cơ sở dữ liệu · Tối ưu hiệu năng**
 
-<br/>
+<p>
+<a href="mailto:thanghoang182004@gmail.com">
+<img src="https://img.shields.io/badge/Email-Li%C3%AAn_h%E1%BB%87-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/hoangthang183204">
+<img src="https://img.shields.io/badge/GitHub-H%E1%BB%93_s%C6%A1-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+</p>
 
-`NODE.JS` &nbsp; `PHP / LARAVEL` &nbsp; `C# / .NET`
-
-<br/>
-
-[🌐 GitHub Profile](https://github.com/hoangthang183204) &nbsp; · &nbsp; [✉️ Email](mailto:thanghoang182004@gmail.com) &nbsp; · &nbsp; 📍 Hanoi, Vietnam
-
-<br/>
-
-*Turning ideas into reliable software solutions.*
+📍 Hà Nội, Việt Nam
 
 </div>
 
 ---
 
-<div align="center">
+## 👨‍💻 GIỚI THIỆU
 
-## 👨‍💻 ABOUT ME
+Tôi là **Hoàng Quang Thắng**, tốt nghiệp chuyên ngành **Lập trình web tại Cao đẳng FPT Polytechnic**, với GPA **3.63/4.0**.
 
-</div>
+Tôi có kinh nghiệm thực tập tại **JITS Innovation Labs** và đảm nhận vai trò **Trưởng nhóm** trong đồ án tốt nghiệp.
 
-I'm **Hoàng Quang Thắng**, a Web Development graduate from **FPT Polytechnic College**, with a GPA of **3.63/4.0**.
+Tôi định hướng phát triển chuyên sâu về Backend, tập trung vào xây dựng RESTful API, thiết kế cơ sở dữ liệu, bảo mật và tối ưu hiệu năng ứng dụng.
 
-I have practical experience from my internship at **JITS Innovation Labs** and have worked as a **Team Leader** on my graduation project.
+Tôi yêu thích việc tìm hiểu cách hệ thống hoạt động phía sau, từ xử lý dữ liệu, tối ưu truy vấn đến cải thiện khả năng mở rộng của ứng dụng.
 
-My main focus is Backend Development, especially API architecture, database design, application security, and performance optimization.
+### Thông tin nghề nghiệp
 
-<details>
-<summary><b>📌 More About Me</b></summary>
-
-- 🎓 Education: Web Development – FPT Polytechnic College
-- 📊 GPA: 3.63/4.0
-- 💼 Experience: Backend Developer Intern at JITS Innovation Labs
-- 🎯 Career Direction: Fresher / Junior Backend Developer
-- ⚙️ Backend: Node.js, PHP/Laravel, C#/.NET
-- 🗄️ Database: MySQL, MongoDB
-- 🚀 Interests: RESTful API, Redis Cache, System Design, Database Optimization
-- 🧰 Tools: Git, GitHub, Docker, Postman
-
-</details>
-
----
-
-<div align="center">
-
-## ⚡ TECHNICAL SKILLS
-
-*Technologies and tools I use to build web applications.*
-
-</div>
-
-| Category | Technologies |
+| Thông tin | Chi tiết |
 |---|---|
-| **Backend** | Node.js · Sails.js · PHP · Laravel · C# · .NET |
-| **Frontend** | Next.js · React · Vue.js · JavaScript · HTML · CSS |
-| **Database** | MySQL · MongoDB · Redis · SQL Server |
-| **DevOps & Tools** | Docker · Git · GitHub · Postman |
-| **Concepts** | RESTful API · JWT · WebSocket · Caching · CI/CD |
-
-### ⚙️ Backend Ecosystem
-
-`Node.js` `Sails.js` `PHP` `Laravel` `C#` `.NET`
-
-### 🗄️ Database & Performance
-
-`MySQL` `MongoDB` `Redis` `SQL Server` `Indexing` `Query Optimization`
-
-### 🎨 Frontend
-
-`Next.js` `React` `Vue.js` `JavaScript` `HTML5` `CSS3`
-
-### 🧰 Development Tools
-
-`Git` `GitHub` `Docker` `Postman` `VS Code`
+| Họ và tên | Hoàng Quang Thắng |
+| Định hướng | Fresher / Junior Backend Developer |
+| Học vấn | Lập trình web – Cao đẳng FPT Polytechnic |
+| GPA | 3.63/4.0 |
+| Kinh nghiệm | Thực tập tại JITS Innovation Labs |
+| Vai trò dự án | Backend Developer / Team Leader |
+| Địa điểm | Hà Nội, Việt Nam |
+| Email | thanghoang182004@gmail.com |
 
 ---
 
-<div align="center">
+## 🛠️ KỸ NĂNG CÔNG NGHỆ
 
-## 🚀 FEATURED PROJECTS
+### 1. Backend Development
 
-*Selected projects demonstrating my development experience and technical skills.*
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sails.js-14ACC2?style=flat-square&logo=sailsdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+</p>
 
-</div>
+- Lập trình hướng đối tượng (OOP).
+- Xây dựng RESTful API.
+- Xác thực và phân quyền với JWT.
+- Xử lý nghiệp vụ phía Backend.
+- Tổ chức và phát triển ứng dụng theo kiến trúc phù hợp.
+
+### 2. Database & Caching
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+- Thiết kế cơ sở dữ liệu và quan hệ giữa các bảng.
+- Sử dụng Index để tối ưu truy vấn.
+- Phân trang và xử lý dữ liệu.
+- Tìm hiểu và áp dụng Redis Cache.
+- Tối ưu truy vấn và xử lý vấn đề N+1.
+
+### 3. Frontend Development
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+
+- Xây dựng giao diện web với React, Next.js và Vue.js.
+- Tích hợp Frontend với RESTful API.
+- Quản lý trạng thái và xử lý dữ liệu giao diện.
+
+### 4. Công cụ & Quy trình phát triển
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+- Git và GitHub trong quản lý mã nguồn.
+- Docker trong môi trường phát triển.
+- Postman để kiểm thử API.
+- Làm việc nhóm và quản lý công việc.
 
 ---
 
-### 01 | TASKFLOW
-#### ⚡ Team Task Management System
+## 🚀 DỰ ÁN NỔI BẬT
 
-<kbd>INTERNSHIP PROJECT</kbd> <kbd>JITS INNOVATION LABS</kbd>
+### 01. TaskFlow – Hệ thống quản lý công việc nhóm
 
-<sub>April 2026 – July 2026</sub>
+<badge color="info">Dự án thực tập</badge> <badge color="success">JITS Innovation Labs</badge>
 
-A collaborative task management platform that helps teams organize work, monitor progress, and synchronize task updates in real time.
+<text color="secondary" size="xs">Thời gian: 04/2026 – 07/2026</text>
+
+Hệ thống quản lý công việc nhóm, hỗ trợ người dùng tạo công việc, theo dõi tiến độ và cập nhật trạng thái theo thời gian thực.
 
 <div align="center">
 
-**[🌐 LIVE DEMO](https://taskflow-frontend-virid.vercel.app/)**
+**[🌐 XEM DEMO](https://taskflow-frontend-virid.vercel.app/)**
 
-**[💻 FRONTEND SOURCE](https://github.com/hoangthang183204/taskflow-frontend)**
-
-**[⚙️ BACKEND SOURCE](https://github.com/hoangthang183204/taskflow-backend)**
+[Frontend Repository](https://github.com/hoangthang183204/taskflow-frontend) · [Backend Repository](https://github.com/hoangthang183204/taskflow-backend)
 
 </div>
 
-| Technical Area | Implementation |
+**Chức năng và giải pháp kỹ thuật**
+
+| Hạng mục | Công nghệ / Giải pháp |
 |---|---|
-| Backend | Sails.js, RESTful API |
-| Authentication | JWT, Authorization |
-| Database | MongoDB, Indexing, Pagination |
-| Optimization | N+1 Query Optimization |
-| Caching | Redis Cache, Rate Limiting |
-| Real-time | WebSocket |
+| Backend | Node.js, Sails.js, RESTful API |
+| Xác thực | JWT Authentication, Authorization |
+| Cơ sở dữ liệu | MongoDB, Index, Pagination |
+| Tối ưu truy vấn | Xử lý vấn đề N+1 |
+| Hiệu năng | Redis Cache, Rate Limiting |
+| Thời gian thực | WebSocket |
 | Frontend | Next.js, Optimistic UI |
-| Deployment | Docker, CI/CD |
+| Triển khai | Docker, CI/CD |
 
-**💡 Key Technical Highlights**
+**Điểm nổi bật về kỹ thuật**
 
-- Implemented JWT authentication and authorization.
-- Optimized database queries and addressed N+1 problems.
-- Applied Redis caching to improve data access efficiency.
-- Integrated WebSocket for real-time task synchronization.
-- Used Optimistic UI to improve user interaction.
-- Worked with Docker and CI/CD workflows.
+- Xây dựng API và cơ chế xác thực, phân quyền người dùng.
+- Tối ưu truy vấn MongoDB, xử lý vấn đề N+1.
+- Áp dụng Redis Cache để cải thiện hiệu quả truy xuất dữ liệu.
+- Sử dụng WebSocket để cập nhật trạng thái công việc theo thời gian thực.
+- Áp dụng Optimistic UI để cải thiện trải nghiệm người dùng.
 
-**Technology Stack**
-
-`Node.js` `Sails.js` `MongoDB` `Redis` `Next.js` `Docker`
+**Công nghệ:** `Node.js` `Sails.js` `MongoDB` `Redis` `Next.js` `Docker`
 
 ---
 
-### 02 | CINEMA BOOKING SYSTEM
-#### 🎬 Online Movie Ticket Booking Platform
+### 02. Cinema Booking System – Hệ thống đặt vé xem phim trực tuyến
 
-<kbd>FULL-STACK WEB APPLICATION</kbd>
+<badge color="info">Dự án Full-stack</badge>
 
-A movie ticket booking platform supporting customers, cinema staff, and administrators. Users can browse movies, select seats, book tickets, and make payments through integrated payment gateways.
+Hệ thống đặt vé xem phim trực tuyến, hỗ trợ khách hàng lựa chọn phim, suất chiếu, ghế ngồi và thực hiện thanh toán. Đồng thời cung cấp các chức năng quản lý dành cho nhân viên và quản trị viên rạp chiếu phim.
 
 <div align="center">
 
-**[🌐 LIVE DEMO — EXPLORE PROJECT](https://cinema-booking-vue.vercel.app/)**
+**[🌐 TRẢI NGHIỆM DEMO](https://cinema-booking-vue.vercel.app/)**
 
-**[💻 FRONTEND SOURCE](https://github.com/hoangthang183204/CinemaBooking-Vue)**
-
-**[⚙️ BACKEND SOURCE](https://github.com/hoangthang183204/CinemaBooking-API)**
+[Frontend Repository](https://github.com/hoangthang183204/CinemaBooking-Vue) · [Backend Repository](https://github.com/hoangthang183204/CinemaBooking-API)
 
 </div>
 
-| Technical Area | Implementation |
+**Chức năng và giải pháp kỹ thuật**
+
+| Hạng mục | Công nghệ / Giải pháp |
 |---|---|
 | Frontend | Vue.js 3 |
 | Backend | C#, .NET 6, ASP.NET Core Web API |
 | ORM | Entity Framework Core |
-| Database | SQL Server |
-| Booking | Movie selection, seat selection, temporary seat reservation |
-| Payment | VNPay, MoMo Sandbox |
-| Authentication | JWT, BCrypt, Google OAuth 2.0 |
-| Ticket | QR Code Generation, Ticket Validation |
-| Administration | Movies, Showtimes, Shifts, Revenue Reports |
+| Cơ sở dữ liệu | SQL Server |
+| Đặt vé | Chọn phim, suất chiếu, ghế ngồi |
+| Giữ ghế | Giữ ghế tạm thời trong quá trình đặt vé |
+| Thanh toán | VNPay, MoMo Sandbox |
+| Xác thực | JWT, BCrypt, Google OAuth 2.0 |
+| Quản lý vé | QR Code, xác thực vé |
+| Quản trị | Phim, suất chiếu, ca trực, doanh thu |
 
-**💡 Key Technical Highlights**
+**Điểm nổi bật về kỹ thuật**
 
-- Developed the online movie ticket booking workflow.
-- Implemented seat selection and temporary seat reservation.
-- Integrated VNPay and MoMo in sandbox environments.
-- Applied JWT authentication and BCrypt password hashing.
-- Integrated Google OAuth 2.0.
-- Generated QR codes for ticket verification.
-- Developed administrative features for cinema operations.
+- Xây dựng quy trình đặt vé trực tuyến.
+- Triển khai chức năng lựa chọn và giữ ghế tạm thời.
+- Tích hợp VNPay và MoMo trong môi trường Sandbox.
+- Xây dựng cơ chế xác thực bằng JWT và Google OAuth 2.0.
+- Sử dụng QR Code để hỗ trợ xác thực vé.
+- Phát triển các chức năng quản lý phim, suất chiếu và doanh thu.
 
-**Technology Stack**
-
-`C#` `.NET 6` `Entity Framework Core` `SQL Server` `Vue.js 3`
+**Công nghệ:** `C#` `.NET 6` `Entity Framework Core` `SQL Server` `Vue.js 3`
 
 ---
 
-### 03 | HR FLOW
-#### 🏢 Human Resource Management System
+### 03. HR Flow – Hệ thống quản lý nhân sự
 
-<kbd>GRADUATION PROJECT</kbd> <kbd>TEAM LEADER</kbd>
+<badge color="discovery">Đồ án tốt nghiệp</badge> <badge color="success">Trưởng nhóm</badge>
 
-<sub>May 2026 – August 2026</sub>
+<text color="secondary" size="xs">Thời gian: 05/2026 – 08/2026</text>
 
-A human resource management platform designed to digitize business HR operations, covering employee profiles, attendance, leave management, payroll, and reporting.
+Website quản lý nhân sự hỗ trợ doanh nghiệp quản lý hồ sơ nhân viên, hợp đồng, chấm công, nghỉ phép, tăng ca, tính lương và báo cáo.
 
 <div align="center">
 
-**[💻 GITHUB — VIEW SOURCE CODE](https://github.com/hoangthang183204/doantotnghiep)**
+[**💻 XEM MÃ NGUỒN TRÊN GITHUB**](https://github.com/hoangthang183204/doantotnghiep)
 
 </div>
 
-| Technical Area | Implementation |
+**Chức năng và giải pháp kỹ thuật**
+
+| Hạng mục | Công nghệ / Giải pháp |
 |---|---|
-| User Management | 5 roles: Super Admin, HR, Accountant, Department Manager, Employee |
-| HR Management | Employee Profiles, Contracts, Leave, Overtime |
-| Attendance | Attendance Management |
-| Payroll | Salary, Allowances, Bonuses, Deductions |
-| Database | MySQL, Indexing, Query Optimization |
-| Security | Role-based Access Control, Audit Logs |
-| Backend | Laravel 12 |
+| Backend | PHP, Laravel 12 |
 | Frontend | JavaScript, Tailwind CSS |
+| Cơ sở dữ liệu | MySQL |
+| Phân quyền | 5 vai trò người dùng |
+| Quản lý nhân sự | Hồ sơ, hợp đồng, nghỉ phép, tăng ca |
+| Chấm công | Quản lý dữ liệu chấm công |
+| Tính lương | Lương, phụ cấp, thưởng, khấu trừ |
+| Bảo mật | Phân quyền, Audit Logs |
 
-**💡 Key Technical Highlights**
+**Năm vai trò trong hệ thống**
 
-- Led the team throughout the graduation project.
-- Designed role-based access control for five user roles.
-- Developed employee management and attendance workflows.
-- Implemented payroll processing and reporting.
-- Applied database indexing and query optimization.
-- Designed audit logging for important data changes.
+1. Super Admin
+2. HR
+3. Kế toán
+4. Trưởng phòng
+5. Nhân viên
 
-**Technology Stack**
+**Vai trò và đóng góp**
 
-`PHP` `Laravel 12` `MySQL` `JavaScript` `Tailwind CSS` `Git`
+- Đảm nhận vai trò Trưởng nhóm, phối hợp phân chia công việc và quản lý tiến độ.
+- Tham gia thiết kế cơ sở dữ liệu MySQL.
+- Phát triển các chức năng quản lý nhân sự và nghiệp vụ liên quan.
+- Xây dựng cơ chế phân quyền theo vai trò.
+- Tìm hiểu tối ưu truy vấn và ghi nhật ký thay đổi dữ liệu quan trọng.
+
+**Công nghệ:** `PHP` `Laravel 12` `MySQL` `JavaScript` `Tailwind CSS` `Git`
 
 ---
 
+## 📚 ĐỊNH HƯỚNG PHÁT TRIỂN
+
+Tôi đang tập trung nâng cao kiến thức và kỹ năng trong các lĩnh vực:
+
+| Lĩnh vực | Nội dung tìm hiểu |
+|---|---|
+| Cấu trúc dữ liệu & giải thuật | Array, Hash Map, Linked List, Tree, Graph, Dynamic Programming |
+| System Design | Scalability, Load Balancing, Caching, API Gateway |
+| Database | Indexing, Transactions, Query Optimization |
+| Backend Performance | Redis, Rate Limiting, N+1 Query |
+| DevOps | Docker, CI/CD, Nginx |
+
+---
+
+## 📊 GITHUB
+
 <div align="center">
 
-## 📈 GITHUB ACTIVITY
+[![GitHub](https://img.shields.io/badge/GitHub-Hoang_Quang_Thang-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoangthang183204)
 
-*Explore my repositories and development activity.*
+[**Xem tất cả repositories →**](https://github.com/hoangthang183204?tab=repositories)
+
+</div>
+
+---
+
+## 📫 LIÊN HỆ
+
+<div align="center">
+
+Tôi luôn sẵn sàng trao đổi kiến thức, học hỏi kinh nghiệm và tham gia phát triển các sản phẩm phần mềm.
+
+**Hoàng Quang Thắng**
+
+[![Email](https://img.shields.io/badge/Email-thanghoang182004%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanghoang182004@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-hoangthang183204-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoangthang183204)
 
-[**View All My Repositories →**](https://github.com/hoangthang183204?tab=repositories)
-
-</div>
-
----
-
-<div align="center">
-
-## 📚 CURRENTLY LEARNING
-
-| Area | Learning Focus |
-|---|---|
-| 🧠 Algorithms | Data Structures & Algorithms |
-| 🏗️ Architecture | System Design & Software Architecture |
-| 🗄️ Database | Indexing, Transactions, Query Optimization |
-| ⚡ Performance | Redis, Caching, Backend Scalability |
-| 🚀 DevOps | Docker, CI/CD, Nginx |
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 LET'S CONNECT
-
-*I'm always open to learning, sharing knowledge, and collaborating on meaningful software projects.*
-
-<br/>
-
-[![Email](https://img.shields.io/badge/EMAIL-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanghoang182004@gmail.com)
-
-[![GitHub](https://img.shields.io/badge/GITHUB-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hoangthang183204)
-
-<br/>
-
-**Thanks for visiting my profile!**
-
-<sub>Keep Learning · Keep Building · Keep Improving</sub>
+*Không ngừng học hỏi – Không ngừng cải thiện – Không ngừng phát triển.*
 
 </div>
